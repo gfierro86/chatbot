@@ -1,0 +1,1537 @@
+1
+00:00:08,502 --> 00:00:10,157
+Non l'ho mai visto così felice.
+
+2
+00:00:10,158 --> 00:00:13,422
+Perché non l'hai mai visto nel giorno
+in cui rinnova le sue scorte di medicinali.
+
+3
+00:00:14,431 --> 00:00:17,992
+Guardate! Un nuovo antistaminico
+a uso locale con lidocaina!
+
+4
+00:00:17,993 --> 00:00:19,455
+Che bello!
+
+5
+00:00:19,953 --> 00:00:21,761
+Non vedo l'ora che mi venga uno sfogo.
+
+6
+00:00:23,821 --> 00:00:26,357
+Una versione extra-forte del mio inalatore...
+
+7
+00:00:26,657 --> 00:00:28,383
+Allora le leggono, le e-mail.
+
+8
+00:00:31,230 --> 00:00:33,159
+Ma quello non è il Professor Protone?
+
+9
+00:00:33,723 --> 00:00:34,723
+Sì!
+
+10
+00:00:38,719 --> 00:00:41,244
+Guardatelo, mentre se ne sta in coda...
+
+11
+00:00:41,245 --> 00:00:43,945
+come se 30 anni fa
+non fosse stato discretamente famoso.
+
+12
+00:00:45,235 --> 00:00:46,436
+Andiamo a salutarlo.
+
+13
+00:00:46,604 --> 00:00:48,355
+Forse non dovremmo disturbarlo.
+
+14
+00:00:48,356 --> 00:00:50,988
+Non voglio disturbarlo, solo parlare con lui.
+
+15
+00:00:52,670 --> 00:00:54,177
+Crede che faccia differenza.
+
+16
+00:00:54,945 --> 00:00:56,033
+Arthur?
+
+17
+00:00:56,501 --> 00:00:58,894
+Arthur, sono io... Sheldon Cooper.
+
+18
+00:00:59,060 --> 00:01:02,001
+Forse non si ricorda di me,
+a causa della sua età avanzata.
+
+19
+00:01:03,575 --> 00:01:05,599
+Fidati, mi... mi ricordo.
+
+20
+00:01:06,531 --> 00:01:11,004
+Questa è Amy, la mia fidanzata. Amy, lui è
+Arthur Jeffries, leggenda della televisione.
+
+21
+00:01:11,005 --> 00:01:14,546
+Il suo programma scientifico
+ha ispirato milioni di bambini!
+
+22
+00:01:14,816 --> 00:01:16,327
+Un attimo...
+
+23
+00:01:17,477 --> 00:01:19,035
+hai una fidanzata?
+
+24
+00:01:20,767 --> 00:01:22,950
+Sì, e ho sentito tantissimo parlare di lei!
+
+25
+00:01:23,023 --> 00:01:26,472
+Guardi...
+indossiamo le stesse scarpe ortopediche!
+
+26
+00:01:27,773 --> 00:01:29,813
+Incredibile, sono vestita come una celebrità!
+
+27
+00:01:32,640 --> 00:01:34,108
+Va bene, ora capisco.
+
+28
+00:01:36,089 --> 00:01:38,703
+Dottor Jeffries, salve di nuovo.
+Leonard Hofstadter.
+
+29
+00:01:39,018 --> 00:01:41,789
+Giusto, della tua fidanzata mi ricordo.
+
+30
+00:01:43,680 --> 00:01:45,787
+E'... è qui anche lei?
+
+31
+00:01:47,521 --> 00:01:48,976
+No, non c'è.
+
+32
+00:01:49,490 --> 00:01:52,009
+- Allora, che ricette è venuto a ritirare?
+- Sheldon!
+
+33
+00:01:52,010 --> 00:01:54,071
+No, aspetti! Lo indovino, non me lo dica.
+
+34
+00:01:54,905 --> 00:01:56,853
+Non te lo stavo per dire...
+
+35
+00:01:57,894 --> 00:02:01,018
+- Sheldon, andiamo.
+- No, sono bravissimo! Mi dia un indizio...
+
+36
+00:02:01,019 --> 00:02:02,460
+Riguarda forse...
+
+37
+00:02:02,461 --> 00:02:05,089
+difficoltà a iniziare un processo
+di qualche tipo?
+
+38
+00:02:07,211 --> 00:02:10,730
+Data la mia età,
+non era difficile da indovinare.
+
+39
+00:02:12,195 --> 00:02:16,101
+Sheldon, andiamo a prendere in giro quelli che
+comprano le medicine omeopatiche. Lo adori!
+
+40
+00:02:16,356 --> 00:02:19,432
+Ma sto passando del tempo
+con il mio amico, e ci stiamo divertendo!
+
+41
+00:02:19,542 --> 00:02:21,237
+Guarda com'è felice!
+
+42
+00:02:24,696 --> 00:02:28,092
+The Big Bang Theory - 7x07
+"The Proton Displacement"
+
+43
+00:02:32,066 --> 00:02:35,722
+Traduzione: Mlle Kurtz, Saropula, Fry
+
+44
+00:02:40,966 --> 00:02:43,012
+Revisione: rikyrich
+
+45
+00:02:43,013 --> 00:02:45,441
+www.subsfactory.it
+
+46
+00:02:54,222 --> 00:02:56,703
+Bernie ha organizzato
+una serata tra ragazze venerdì...
+
+47
+00:02:56,704 --> 00:02:58,485
+a casa nostra. Vuoi fare qualcosa?
+
+48
+00:02:59,390 --> 00:03:01,424
+- In realtà, sono occupato.
+- A fare cosa?
+
+49
+00:03:01,425 --> 00:03:03,759
+C'è un nuovo bar sportivo
+sulla Colorado Avenue...
+
+50
+00:03:03,760 --> 00:03:05,540
+- Vai alla serata tra ragazze!
+- Sì.
+
+51
+00:03:08,161 --> 00:03:10,231
+Sai che faranno bigiotteria, vero?
+
+52
+00:03:10,232 --> 00:03:11,889
+Pensi che sia stata una loro idea?
+
+53
+00:03:12,967 --> 00:03:15,093
+Avrebbero bevuto birra
+e giocato a freccette...
+
+54
+00:03:16,641 --> 00:03:19,465
+- Come va?
+- Il suo testosterone, decisamente male...
+
+55
+00:03:20,250 --> 00:03:23,765
+Scusa tanto! Si dà il caso che sia
+a mio agio con la mia mascolinità.
+
+56
+00:03:23,916 --> 00:03:26,039
+Com'è possibile?
+
+57
+00:03:31,205 --> 00:03:33,749
+Il Professor Protone mi ha mandato una mail!
+
+58
+00:03:33,897 --> 00:03:36,415
+- Bello! Cosa dice?
+- Sta lavorando a un articolo...
+
+59
+00:03:36,455 --> 00:03:40,472
+sulle micro valvole termoioniche...
+e vuole sapere se gli posso dare un'occhiata!
+
+60
+00:03:40,980 --> 00:03:42,494
+Che strano...
+
+61
+00:03:42,495 --> 00:03:45,004
+perché l'ha chiesto a te e non a me?
+
+62
+00:03:46,732 --> 00:03:48,632
+A me ha mandato due mail!
+
+63
+00:03:49,674 --> 00:03:52,220
+"Hai l'indirizzo e-mail di Leonard?"
+
+64
+00:03:55,205 --> 00:03:56,275
+E...
+
+65
+00:03:56,614 --> 00:03:58,652
+"Non importa, l'ho trovato."
+
+66
+00:04:00,617 --> 00:04:02,962
+Non posso credere
+che abbia preferito te a me!
+
+67
+00:04:03,227 --> 00:04:06,226
+Davvero leggeresti l'articolo
+di una vecchia gloria che da decenni...
+
+68
+00:04:06,227 --> 00:04:08,923
+non dà nessun vero contributo alla scienza?
+
+69
+00:04:08,924 --> 00:04:10,718
+Sì, non c'è motivo per piangere.
+
+70
+00:04:10,958 --> 00:04:12,961
+Sheldon Cooper non piange.
+
+71
+00:04:13,429 --> 00:04:15,187
+E' vero... ti verrebbe la ruggine.
+
+72
+00:04:20,953 --> 00:04:23,613
+E pensare che era il mio idolo...
+
+73
+00:04:23,662 --> 00:04:24,703
+perché, poi?
+
+74
+00:04:25,025 --> 00:04:27,572
+In fin dei conti è soltanto
+un altro ciarlatano di Hollywood.
+
+75
+00:04:29,536 --> 00:04:33,190
+- Vale davvero la pena arrabbiarsi?
+- Non si dovrebbero incontrare i propri eroi.
+
+76
+00:04:33,200 --> 00:04:36,196
+Non sbirciare dietro le quinte
+della fama e della celebrità...
+
+77
+00:04:36,197 --> 00:04:37,221
+perché così...
+
+78
+00:04:37,222 --> 00:04:38,903
+li vedresti come sono realmente.
+
+79
+00:04:39,215 --> 00:04:41,020
+Buffoni degenerati.
+
+80
+00:04:43,046 --> 00:04:45,420
+Su, è un presentatore per ragazzi
+in pensione.
+
+81
+00:04:45,421 --> 00:04:46,508
+Ancora peggio!
+
+82
+00:04:46,509 --> 00:04:50,566
+Farsi amare dai bambini ingannandoli
+con il dolce confetto della scienza.
+
+83
+00:04:52,035 --> 00:04:53,039
+Pervertito.
+
+84
+00:04:56,073 --> 00:04:57,395
+Hai mai riflettuto...
+
+85
+00:04:57,407 --> 00:05:00,125
+sul perché Arthur
+non voglia farti leggere il suo articolo?
+
+86
+00:05:00,126 --> 00:05:01,221
+Sì, certo.
+
+87
+00:05:01,429 --> 00:05:04,643
+E l'unica conclusione è che la ricetta
+che stava ritirando l'altro giorno...
+
+88
+00:05:04,644 --> 00:05:06,254
+era per pillole da sciroccati.
+
+89
+00:05:07,781 --> 00:05:09,509
+Forse pensa che tu sia...
+
+90
+00:05:10,000 --> 00:05:11,203
+troppo appiccicoso.
+
+91
+00:05:12,116 --> 00:05:14,206
+Non esagerare...
+
+92
+00:05:14,347 --> 00:05:17,497
+in quanto a competenze sociali,
+maneggio alla perfezione le tre fondamenta.
+
+93
+00:05:17,498 --> 00:05:19,508
+Il sorriso modesto...
+
+94
+00:05:21,447 --> 00:05:23,438
+la risatina amichevole...
+
+95
+00:05:26,238 --> 00:05:28,647
+e l'espressione vocale di vicinanza.
+
+96
+00:05:31,287 --> 00:05:33,583
+Quest'ultima è difficile,
+ci sto ancora lavorando.
+
+97
+00:05:35,183 --> 00:05:38,048
+Da quello che ho visto l'altro giorno,
+posso capire...
+
+98
+00:05:38,049 --> 00:05:39,544
+perché lui...
+
+99
+00:05:40,177 --> 00:05:41,415
+perché la gente...
+
+100
+00:05:41,549 --> 00:05:42,554
+ti trova...
+
+101
+00:05:44,622 --> 00:05:45,622
+Cosa?
+
+102
+00:05:47,921 --> 00:05:49,325
+Non importa.
+
+103
+00:05:49,711 --> 00:05:51,980
+No, vai avanti, dillo!
+
+104
+00:05:52,211 --> 00:05:53,651
+So di che si tratta.
+
+105
+00:05:53,652 --> 00:05:56,239
+E' tutta la vita che la sento.
+La parola è "fastidioso".
+
+106
+00:05:56,240 --> 00:05:57,579
+Forza, dillo.
+
+107
+00:05:57,625 --> 00:05:59,597
+Dillo! Di' che sono fastidioso.
+
+108
+00:05:59,598 --> 00:06:01,880
+- Sheldon...
+- Non ferirai i miei sentimenti.
+
+109
+00:06:01,881 --> 00:06:03,795
+Su, Amy, di' che sono fastidioso.
+
+110
+00:06:03,796 --> 00:06:04,866
+Sono fastidioso.
+
+111
+00:06:04,867 --> 00:06:06,030
+Sono fastidioso...
+
+112
+00:06:06,221 --> 00:06:08,422
+sono fastidioso...
+ehi, dove stai andando, adesso?
+
+113
+00:06:08,423 --> 00:06:10,737
+Senti, sai anche tu che lo vuoi dire, dillo!
+
+114
+00:06:11,290 --> 00:06:13,558
+Di' che sono fastidioso. Avanti, dillo!
+
+115
+00:06:13,831 --> 00:06:17,064
+Dillo! Dillo! Amy, dillo!
+
+116
+00:06:19,660 --> 00:06:21,385
+Non sopporta che io abbia ragione.
+
+117
+00:06:24,177 --> 00:06:25,369
+E' divertente!
+
+118
+00:06:25,464 --> 00:06:29,867
+Sarà così sensuale indossare gioielli senza
+la lista dei farmaci a cui sono allergica!
+
+119
+00:06:31,232 --> 00:06:32,720
+Penny, come va laggiù?
+
+120
+00:06:32,721 --> 00:06:35,218
+Bene, ho solo qualche problema con la colla.
+
+121
+00:06:37,307 --> 00:06:40,516
+Come fai a non sapere come funziona la colla?
+Marinavi la scuola materna?
+
+122
+00:06:41,761 --> 00:06:44,517
+Sì, ma solo perché uscivo
+con uno di seconda elementare.
+
+123
+00:06:47,293 --> 00:06:48,719
+Ciao a tutti.
+
+124
+00:06:48,720 --> 00:06:51,036
+Va bene, facciamola finita.
+
+125
+00:06:51,037 --> 00:06:53,944
+Sentiamo tutte le battute
+su "Raj che è una femminuccia".
+
+126
+00:06:53,945 --> 00:06:56,234
+No. Bernadette dice
+che non è carino, quindi...
+
+127
+00:06:56,235 --> 00:06:58,034
+- non posso.
+- Grazie.
+
+128
+00:06:58,035 --> 00:07:00,836
+Quindi non ti prenderò in giro,
+né per le cose che ti piacciono,
+
+129
+00:07:00,876 --> 00:07:03,355
+né perché, come le donne,
+sei in cerca di guaaai.
+
+130
+00:07:07,202 --> 00:07:08,511
+Howie, smettila.
+
+131
+00:07:08,512 --> 00:07:10,478
+Dai, guarda cosa sto facendo.
+
+132
+00:07:11,234 --> 00:07:13,650
+- Ma guarda che bello.
+- Io sto facendo un braccialetto.
+
+133
+00:07:13,651 --> 00:07:15,448
+Sì, e io sto facendo un casino.
+
+134
+00:07:18,143 --> 00:07:20,654
+Sapete, invece di colla e perline,
+
+135
+00:07:20,655 --> 00:07:24,009
+potreste usare la mia saldatrice.
+Così potreste fare cose molto più fiche.
+
+136
+00:07:24,010 --> 00:07:27,225
+Credo che andiamo già benissimo così, grazie.
+
+137
+00:07:27,554 --> 00:07:30,176
+- In realtà a me piacerebbe provarla.
+- Anche a me.
+
+138
+00:07:30,177 --> 00:07:31,283
+Torno subito.
+
+139
+00:07:32,642 --> 00:07:34,782
+Quand'è che ho mangiato i pistacchi?
+
+140
+00:07:40,721 --> 00:07:41,721
+Arthur.
+
+141
+00:07:42,312 --> 00:07:43,312
+Arthur.
+
+142
+00:07:43,894 --> 00:07:44,894
+Arthur.
+
+143
+00:07:46,847 --> 00:07:48,104
+Un batacchio.
+
+144
+00:07:48,795 --> 00:07:50,216
+I soldi della TV.
+
+145
+00:07:53,820 --> 00:07:55,686
+Sheldon, cosa ci fai qui?
+
+146
+00:07:55,928 --> 00:07:58,086
+Mi dispiace, l'ho svegliata?
+
+147
+00:07:58,087 --> 00:08:00,503
+Certo che mi hai svegliato,
+sono le sette e mezza.
+
+148
+00:08:03,049 --> 00:08:06,129
+Beh, sarei arrivato prima,
+ma per qualche ragione la sua casa
+
+149
+00:08:06,130 --> 00:08:08,804
+non c'è su questa cartina
+delle star di Hollywood.
+
+150
+00:08:09,757 --> 00:08:11,346
+Cosa vuoi, Sheldon?
+
+151
+00:08:12,452 --> 00:08:14,689
+La mia ragazza mi ha fatto notare
+
+152
+00:08:14,690 --> 00:08:17,140
+che potrei essere stato irritante con lei.
+
+153
+00:08:17,141 --> 00:08:19,017
+Sembra una da non farsi scappare.
+
+154
+00:08:20,941 --> 00:08:23,379
+Comunque, volevo scusarmi.
+
+155
+00:08:23,380 --> 00:08:24,864
+Mi dispiace tanto.
+
+156
+00:08:24,865 --> 00:08:27,013
+Bene, scuse accettate, buonanotte.
+
+157
+00:08:27,014 --> 00:08:29,825
+Non... no, no, ora che
+ci siamo riappacificati,
+
+158
+00:08:29,826 --> 00:08:32,492
+volevo parlarle di un'altra cosa.
+
+159
+00:08:32,493 --> 00:08:35,280
+Sheldon, tra un paio d'ore devo alzarmi,
+
+160
+00:08:35,484 --> 00:08:37,947
+pisciare e poi andare in giro per casa.
+
+161
+00:08:44,768 --> 00:08:46,456
+Beh, allora la farò breve.
+
+162
+00:08:47,211 --> 00:08:49,908
+Volevo parlarle del documento
+che ha mandato a Leonard.
+
+163
+00:08:49,909 --> 00:08:53,426
+So che ha detto che è promettente
+e che collaborerà con lei,
+
+164
+00:08:53,427 --> 00:08:55,836
+ma ora che siamo di nuovo amici,
+
+165
+00:08:55,837 --> 00:08:57,448
+sono a sua disposizione.
+
+166
+00:08:57,449 --> 00:09:00,504
+E onestamente, prestarle il mio nome
+e la mia reputazione sarà d'aiuto,
+
+167
+00:09:00,505 --> 00:09:03,636
+perché molte persone la credono
+un vecchia gloria ormai finita.
+
+168
+00:09:04,659 --> 00:09:05,761
+O morto.
+
+169
+00:09:07,749 --> 00:09:09,498
+Quanto sarei fortunato.
+
+170
+00:09:11,417 --> 00:09:13,238
+Beh, allora, che ne dice?
+
+171
+00:09:13,514 --> 00:09:15,132
+Beh, se per te è lo stesso,
+
+172
+00:09:15,133 --> 00:09:16,887
+penso che mi terrò Leonard.
+
+173
+00:09:16,888 --> 00:09:19,187
+E'... è perché sono fastidioso, vero?
+
+174
+00:09:19,188 --> 00:09:21,114
+So che è così. Lo dica.
+
+175
+00:09:21,115 --> 00:09:22,613
+Lo dica, dica che sono fastidioso.
+
+176
+00:09:22,614 --> 00:09:24,333
+- Buonanotte.
+- Lo dica.
+
+177
+00:09:24,334 --> 00:09:26,251
+Arthur, lo dica. Lo dica che sono fastidioso.
+
+178
+00:09:26,252 --> 00:09:28,044
+Lo dica, lo dica.
+
+179
+00:09:28,045 --> 00:09:29,931
+Sono fastidioso. Lo dica.
+
+180
+00:09:31,006 --> 00:09:32,325
+Sei fastidioso!
+
+181
+00:09:36,293 --> 00:09:37,624
+Beh sì, mi ha ferito.
+
+182
+00:09:46,952 --> 00:09:48,583
+Se da bambino mi avessero detto
+
+183
+00:09:48,623 --> 00:09:51,516
+che un giorno avrei lavorato
+col Professor Proton,
+
+184
+00:09:51,517 --> 00:09:53,413
+non ci avrei creduto.
+
+185
+00:09:53,562 --> 00:09:57,023
+Se mi avessero detto che mi avrebbero
+ancora chiamato Professor Proton
+
+186
+00:09:57,024 --> 00:09:59,120
+a ottantatré anni...
+
+187
+00:09:59,686 --> 00:10:01,649
+non avrei mai smesso di fumare.
+
+188
+00:10:04,442 --> 00:10:07,191
+Mi scusi, dottor Jeffries,
+è che sono emozionato.
+
+189
+00:10:07,192 --> 00:10:10,402
+Questa sua idea delle microvalvole
+termoioniche è molto interessante.
+
+190
+00:10:10,403 --> 00:10:11,436
+Ciao, Leonard.
+
+191
+00:10:11,437 --> 00:10:13,409
+Ah, salve, Arthur.
+
+192
+00:10:13,410 --> 00:10:15,839
+Che strana coincidenza trovarvi entrambi qui.
+
+193
+00:10:15,840 --> 00:10:17,315
+Perché sarebbe strano?
+
+194
+00:10:17,364 --> 00:10:20,182
+Perché si dà il caso che anch'io oggi sia
+
+195
+00:10:20,183 --> 00:10:23,267
+con un personaggio scientifico
+della TV amato dai bambini.
+
+196
+00:10:23,268 --> 00:10:25,779
+Non è vero, nuovo amico e collega,
+
+197
+00:10:25,780 --> 00:10:27,671
+Bill Nye, il l'Uomo della Scienza?
+
+198
+00:10:32,122 --> 00:10:34,899
+Scusl, l'ho sostituita
+con un modello più nuovo.
+
+199
+00:10:36,403 --> 00:10:37,924
+Wow, Arthur Jeffries.
+
+200
+00:10:37,925 --> 00:10:41,560
+E' un onore conoscerla. Il mio programma
+non sarebbe mai esistito senza il suo.
+
+201
+00:10:41,561 --> 00:10:43,858
+E' quello che ho detto ai miei avvocati.
+
+202
+00:10:46,498 --> 00:10:50,460
+Signor Nye, salve. Mi dispiace che sia
+rimasto coinvolto in quest'assurdità.
+
+203
+00:10:50,461 --> 00:10:52,664
+Ha detto che avrei parlato a una classe.
+
+204
+00:10:52,665 --> 00:10:55,521
+No, ho detto che avrebbe
+dato una lezione a qualcuno.
+
+205
+00:10:55,522 --> 00:10:56,522
+Ora andiamo.
+
+206
+00:10:58,397 --> 00:10:59,801
+Su cosa state lavorando?
+
+207
+00:10:59,961 --> 00:11:02,017
+Stiamo costruendo
+delle micro valvole termoioniche.
+
+208
+00:11:03,264 --> 00:11:04,537
+Che interessante!
+
+209
+00:11:04,545 --> 00:11:07,985
+Non mi hai già derubato abbastanza?
+Stai indietro, farfallino!
+
+210
+00:11:14,038 --> 00:11:15,299
+Ehi, ragazzi...
+
+211
+00:11:15,300 --> 00:11:17,165
+che ne pensate?
+
+212
+00:11:17,301 --> 00:11:19,829
+- Wow, Penny, bravissima!
+- Grazie.
+
+213
+00:11:19,830 --> 00:11:22,407
+Presa al Target, 4,99 dollari.
+Prendo da bere.
+
+214
+00:11:23,733 --> 00:11:25,041
+Cosa stai facendo tu?
+
+215
+00:11:25,197 --> 00:11:27,604
+- Sto facendo una collana per mia madre.
+- Che dolce.
+
+216
+00:11:27,605 --> 00:11:29,773
+Sì, sta passando un brutto momento
+con mio padre,
+
+217
+00:11:29,774 --> 00:11:32,392
+volevo fare qualcosa
+per farle sapere che le penso.
+
+218
+00:11:32,393 --> 00:11:33,968
+Che succede tra loro?
+
+219
+00:11:33,969 --> 00:11:36,388
+Stanno avendo qualche problema
+di comunicazione.
+
+220
+00:11:36,389 --> 00:11:38,649
+Mio padre dice che la voce di mia madre
+
+221
+00:11:38,650 --> 00:11:42,726
+gli fa venir voglia di staccarsi le orecchie
+e cucirsele sugli occhi per non vederla più.
+
+222
+00:11:45,223 --> 00:11:46,731
+- Ciao.
+- Ciao ragazzi.
+
+223
+00:11:46,732 --> 00:11:49,940
+Ecco chi è venuto a mettere
+il giudeo nella serata dei "giuielli".
+
+224
+00:11:53,708 --> 00:11:55,772
+Certo, allora se lo dici tu va bene.
+
+225
+00:11:57,055 --> 00:11:58,787
+Scusate il ritardo, ero in laboratorio
+
+226
+00:11:58,788 --> 00:12:01,879
+a prendere cosette ancora più fiche da usare.
+
+227
+00:12:01,880 --> 00:12:04,667
+- Non sapevo che saresti venuto.
+- Beh, la volta scorsa è stato uno spasso.
+
+228
+00:12:04,668 --> 00:12:07,583
+E poi pensavo vi avrebbe fatto piacere
+la presenza di un uomo.
+
+229
+00:12:11,200 --> 00:12:12,814
+Non c'era niente da ridere.
+
+230
+00:12:14,134 --> 00:12:17,204
+- Allora, cos'hai portato?
+- L'occorrente per fare stampi per gioielli.
+
+231
+00:12:17,205 --> 00:12:21,495
+Ho dell'argento, un crogiolo
+e una fiamma di acetilene per scioglierlo.
+
+232
+00:12:21,714 --> 00:12:22,976
+Quello sembra divertente.
+
+233
+00:12:22,977 --> 00:12:26,201
+Forse dovresti padroneggiare la colla,
+prima di passare al fuoco.
+
+234
+00:12:27,686 --> 00:12:29,235
+Bene, chi vuole cominciare?
+
+235
+00:12:29,236 --> 00:12:32,538
+Rajesh, vuoi fare un bracciale per tua madre,
+da mettere con la collana?
+
+236
+00:12:32,539 --> 00:12:33,642
+No, grazie.
+
+237
+00:12:33,643 --> 00:12:37,695
+Io volevo fare una collana per mia madre,
+ma purtroppo non ha il collo.
+
+238
+00:12:39,922 --> 00:12:42,886
+E' tutta mento, ciccia e piedi.
+
+239
+00:12:47,396 --> 00:12:48,905
+Bene, siamo quasi pronti.
+
+240
+00:12:48,906 --> 00:12:51,469
+Appena allacciamo i cavi,
+possiamo testare le valvole.
+
+241
+00:12:51,552 --> 00:12:54,029
+Che emozione, mi sento...
+
+242
+00:12:54,401 --> 00:12:56,534
+come se avessi ancora settantacinque anni.
+
+243
+00:13:01,118 --> 00:13:02,460
+Oddio.
+
+244
+00:13:02,475 --> 00:13:03,509
+Che... che c'è?
+
+245
+00:13:03,515 --> 00:13:07,044
+Sheldon mi ha mandato una foto.
+Lui e Bill Nye stanno prendendo un frullato.
+
+246
+00:13:10,554 --> 00:13:12,074
+Posso farti una domanda?
+
+247
+00:13:12,094 --> 00:13:13,110
+Sì, certo.
+
+248
+00:13:13,973 --> 00:13:15,850
+Perché tolleri Sheldon?
+
+249
+00:13:17,527 --> 00:13:19,670
+Sa, siamo amici.
+
+250
+00:13:21,734 --> 00:13:22,740
+Perché?
+
+251
+00:13:25,167 --> 00:13:27,330
+Wow, fa delle domande davvero difficili.
+
+252
+00:13:28,354 --> 00:13:30,952
+Senta, so che può essere irritante,
+
+253
+00:13:30,970 --> 00:13:35,383
+ma deve pensare che
+non lo fa apposta. Lui è così.
+
+254
+00:13:35,390 --> 00:13:40,281
+Ma è anche leale e affidabile
+e insieme ci divertiamo...
+
+255
+00:13:40,300 --> 00:13:42,580
+Lo stai descrivendo come un cane, sai?
+
+256
+00:13:45,108 --> 00:13:46,410
+Una volta mi ha morso.
+
+257
+00:13:48,484 --> 00:13:52,300
+Ma in sua difesa, gli sono spuntato
+alle spalle mentre mangiava, quindi...
+
+258
+00:13:52,755 --> 00:13:54,520
+Sì, lo odiano.
+
+259
+00:13:56,537 --> 00:14:00,041
+Sa, Sheldon è la persona più intelligente
+che io abbia mai conosciuto.
+
+260
+00:14:00,957 --> 00:14:03,270
+E' un po' fuori e ha bisogno di me.
+
+261
+00:14:04,850 --> 00:14:06,280
+E io ho bisogno di lui, credo.
+
+262
+00:14:07,284 --> 00:14:08,630
+Ma perché?
+
+263
+00:14:08,954 --> 00:14:10,970
+Cavolo, non vuole proprio smettere, eh?
+
+264
+00:14:14,047 --> 00:14:15,324
+Oh, cielo.
+
+265
+00:14:15,337 --> 00:14:16,752
+Un'altra foto da Sheldon?
+
+266
+00:14:16,760 --> 00:14:20,650
+No, devo andare a prenderlo.
+Bill Nye l'ha mollato al negozio di frullati.
+
+267
+00:14:22,731 --> 00:14:24,860
+Probabilmente gli ha anche rubato
+il portafogli.
+
+268
+00:14:29,780 --> 00:14:31,022
+Se vi interessa, ragazze,
+
+269
+00:14:31,038 --> 00:14:33,287
+c'è una tecnica per
+prendere una ciocca di capelli,
+
+270
+00:14:33,297 --> 00:14:35,186
+raffinarla nella polvere di carbonio,
+
+271
+00:14:35,187 --> 00:14:38,565
+e usare la pressa idraulica
+per trasformarla in un piccolissimo diamante
+
+272
+00:14:38,579 --> 00:14:39,810
+con dentro il vostro DNA.
+
+273
+00:14:40,377 --> 00:14:41,595
+Oh, è fantastico!
+
+274
+00:14:41,616 --> 00:14:44,860
+Sì. Sai l'anello di fidanzamento di Bernie?
+Viene dalla schiena di mia madre.
+
+275
+00:14:47,230 --> 00:14:48,632
+Sta scherzando.
+
+276
+00:14:48,650 --> 00:14:50,810
+Se fosse vero, sarebbe molto più grande.
+
+277
+00:14:52,934 --> 00:14:55,431
+"Mi chiamo Howard.
+Posso rendere diamanti i capelli."
+
+278
+00:14:55,440 --> 00:14:58,120
+"Mia mamma è terribilmente obesa.
+Tutti mi amano."
+
+279
+00:15:00,400 --> 00:15:02,034
+E questo da dove viene?
+
+280
+00:15:02,040 --> 00:15:03,590
+Ti dico io da dove viene.
+
+281
+00:15:03,896 --> 00:15:07,860
+Mi prendi in giro perché sto con le ragazze,
+e ora sei qui a rovinarci la serata.
+
+282
+00:15:08,040 --> 00:15:10,850
+Raj, calmati...
+deve farci dei diamanti di capelli.
+
+283
+00:15:12,518 --> 00:15:16,017
+Perché starei rovinando tutto?
+Vi aiuto solo a fare gioielli migliori.
+
+284
+00:15:16,038 --> 00:15:17,728
+Non c'entra con i gioielli.
+
+285
+00:15:17,730 --> 00:15:21,660
+E' che mi serve un posto dove posso aprirmi
+riguardo ai miei sentimenti.
+
+286
+00:15:21,681 --> 00:15:24,088
+Da quando non puoi aprirti con me?
+
+287
+00:15:24,960 --> 00:15:28,005
+Ci sono alcune cose che preferisco
+condividere con le ragazze,
+
+288
+00:15:28,017 --> 00:15:29,619
+perché non mi prendono in giro
+
+289
+00:15:29,620 --> 00:15:33,660
+non mi danno nomignoli e non mi dicono
+che sono un Koothrapermaloso.
+
+290
+00:15:37,610 --> 00:15:40,270
+Amico, stavo scherzando.
+
+291
+00:15:40,430 --> 00:15:42,490
+Sì, beh, a volte i tuoi scherzi fanno male.
+
+292
+00:15:43,370 --> 00:15:44,562
+Beh, hai ragione.
+
+293
+00:15:44,600 --> 00:15:47,960
+Non mi sono reso conto
+che ti facevo sentire così.
+
+294
+00:15:49,207 --> 00:15:51,420
+Sei stato molto coraggioso a dirmelo.
+
+295
+00:15:51,887 --> 00:15:52,890
+Grazie.
+
+296
+00:15:53,231 --> 00:15:54,460
+Non è stato facile.
+
+297
+00:15:56,650 --> 00:15:59,660
+Faranno sesso prima di me e Sheldon, lo so.
+
+298
+00:16:05,414 --> 00:16:06,420
+Arthur.
+
+299
+00:16:06,438 --> 00:16:07,600
+Salve, Sheldon.
+
+300
+00:16:08,106 --> 00:16:09,800
+Sono sorpreso di vederla.
+
+301
+00:16:09,816 --> 00:16:11,088
+Sì, anche io.
+
+302
+00:16:11,097 --> 00:16:12,702
+Verso il...
+
+303
+00:16:12,710 --> 00:16:15,960
+terzo piano ho iniziato
+a vedere una luce bianca.
+
+304
+00:16:19,160 --> 00:16:21,430
+- Chiamo Leonard.
+- No, no, no, sono...
+
+305
+00:16:21,850 --> 00:16:23,700
+sono qui... sono qui per vedere te.
+
+306
+00:16:24,198 --> 00:16:27,140
+Se spera di contattare Bill Nye,
+non posso aiutarla.
+
+307
+00:16:27,920 --> 00:16:31,120
+Mi hanno informato che ora è
+Bill Nye il l'Uomo dell'Ordine Restrittivo.
+
+308
+00:16:33,817 --> 00:16:34,820
+No, io...
+
+309
+00:16:34,838 --> 00:16:37,540
+stavo pensando, se non ti disturba,
+
+310
+00:16:37,774 --> 00:16:41,460
+vorrei avere la tua opinione sul mio lavoro.
+
+311
+00:16:42,157 --> 00:16:43,182
+Grazie.
+
+312
+00:16:43,202 --> 00:16:44,710
+Sarebbe un onore.
+
+313
+00:16:45,195 --> 00:16:46,200
+Oh, bene.
+
+314
+00:16:46,217 --> 00:16:47,832
+In realtà, non mi serve.
+
+315
+00:16:47,847 --> 00:16:50,370
+Ho hackerato il suo account e-mail
+e l'ho letto.
+
+316
+00:16:53,197 --> 00:16:54,480
+Che ne pensi?
+
+317
+00:16:54,515 --> 00:17:00,000
+Primo, penso che usare la sua data di nascita
+come password sia imbarazzante.
+
+318
+00:17:02,586 --> 00:17:03,590
+Grazie.
+
+319
+00:17:05,400 --> 00:17:06,600
+Secondo...
+
+320
+00:17:07,312 --> 00:17:09,670
+ho trovato il suo lavoro ispiratore.
+
+321
+00:17:11,478 --> 00:17:13,200
+Questo... questo significa molto per me.
+
+322
+00:17:13,825 --> 00:17:15,305
+Posso invitarla a prendere un tè?
+
+323
+00:17:15,570 --> 00:17:17,300
+No, no. Devo proprio...
+
+324
+00:17:17,451 --> 00:17:18,560
+Devo... devo scappare.
+
+325
+00:17:18,611 --> 00:17:20,265
+Ehi, Arthur. Come stai?
+
+326
+00:17:20,294 --> 00:17:22,300
+Immagino che una tazza non faccia male.
+
+327
+00:17:30,936 --> 00:17:32,373
+Amico, che c'è?
+
+328
+00:17:32,390 --> 00:17:35,660
+Beh, mi dispiaceva per come
+mi sono comportato l'altra sera, quindi...
+
+329
+00:17:35,964 --> 00:17:37,340
+ti ho fatto una cosuccia.
+
+330
+00:17:37,640 --> 00:17:40,045
+- Non dovevi.
+- Beh, è stato divertente.
+
+331
+00:17:40,100 --> 00:17:42,730
+Ho usato le tecniche per i gioielli
+che ci hai insegnato.
+
+332
+00:17:45,157 --> 00:17:47,380
+E' una fibbia a forma di spada laser!
+
+333
+00:17:49,328 --> 00:17:50,921
+Wow, che bella!
+
+334
+00:17:50,951 --> 00:17:53,410
+- Grazie.
+- C'è di più...
+
+335
+00:17:58,020 --> 00:18:00,240
+E non è nemmeno la parte migliore. Guarda.
+
+336
+00:18:00,540 --> 00:18:01,890
+Ne ho una anche io!
+
+337
+00:18:05,270 --> 00:18:07,074
+Senti qua: puoi metterti la tua
+
+338
+00:18:07,080 --> 00:18:09,850
+e possiamo duellare
+con le spade quando vogliamo.
+
+339
+00:18:27,460 --> 00:18:30,328
+Sì, il mio ottavo episodio preferito
+del Professor Proton
+
+340
+00:18:30,330 --> 00:18:32,269
+è "Il razzo ad Alka-Seltzer".
+
+341
+00:18:32,280 --> 00:18:36,780
+Diceva: "Plop, plop, fizz, fizz,
+oh ma che lancio abbiamo fatto!"
+
+342
+00:18:38,260 --> 00:18:40,370
+Ricorda? Se lo ricorda? Ricorda?
+
+343
+00:18:42,010 --> 00:18:44,110
+Non può farne a meno. No. Non può proprio.
+
+344
+00:18:44,630 --> 00:18:46,505
+Aspetti. Prendo un po' di Alka-Seltzer.
+
+345
+00:18:46,510 --> 00:18:50,050
+Possiamo costruire quel razzo
+e sparare alla casa di Bill Nye.
+
+346
+00:18:51,357 --> 00:18:53,700
+A patto che non mi ci avvicini
+a meno di 150 metri.
+
+347
+00:18:58,770 --> 00:19:00,290
+Dunque, tu...
+
+348
+00:19:00,311 --> 00:19:01,940
+hai... hai qualche...
+
+349
+00:19:02,668 --> 00:19:04,590
+nonna single?
+
+350
+00:19:06,934 --> 00:19:08,750
+Mi dispiace, sono entrambe sposate.
+
+351
+00:19:08,770 --> 00:19:09,780
+Bene.
+
+352
+00:19:12,588 --> 00:19:13,636
+Fe... fe...
+
+353
+00:19:13,676 --> 00:19:15,220
+fe... felicemente?
+
+354
+00:19:19,116 --> 00:19:20,742
+www.subsfactory.it
+

@@ -1,0 +1,1454 @@
+1
+00:00:02,261 --> 00:00:04,674
+<i>Negli episodi precedenti...</i>
+
+2
+00:00:12,548 --> 00:00:13,569
+Salve.
+
+3
+00:00:14,541 --> 00:00:16,729
+Sto cercando Howard Wolowitz.
+
+4
+00:00:16,919 --> 00:00:19,779
+- Posso chiedere di che si tratta?
+- No, non può.
+
+5
+00:00:20,381 --> 00:00:21,539
+Benissimo.
+
+6
+00:00:24,357 --> 00:00:27,709
+Salve, colonnello Williams,
+come posso aiutarla?
+
+7
+00:00:27,910 --> 00:00:30,962
+Okay, sicuro. Possiamo vederci giovedì.
+
+8
+00:00:31,206 --> 00:00:35,707
+Alla Caltech va bene.
+Sì, e posso chiederle di cosa si tratta?
+
+9
+00:00:36,781 --> 00:00:37,953
+Non posso?
+
+10
+00:00:38,690 --> 00:00:40,371
+E' quello che ha detto anche a me.
+
+11
+00:00:41,199 --> 00:00:42,544
+E ORA...
+
+12
+00:00:43,070 --> 00:00:44,524
+Senti questa...
+
+13
+00:00:44,525 --> 00:00:47,949
+Elon Musk ha una teoria secondo cui
+siamo tutti personaggi...
+
+14
+00:00:47,950 --> 00:00:50,851
+in un elaborato videogioco strategico.
+
+15
+00:00:50,896 --> 00:00:55,212
+Qualche ragazzino alieno ha speso soldi
+per darmi l'asma e gli occhiali come upgrade?
+
+16
+00:00:57,733 --> 00:01:00,037
+Beh, non dice che è un bel gioco.
+
+17
+00:01:02,418 --> 00:01:04,603
+- Allora, abbiamo un problema.
+- Sarebbe?
+
+18
+00:01:04,604 --> 00:01:08,312
+L'aeronautica mi ha contattato per il nostro
+giroscopio quantistico. Vogliono un incontro.
+
+19
+00:01:08,313 --> 00:01:11,030
+- Davvero?
+- Sì, è venuto un militare a casa di Howard,
+
+20
+00:01:11,031 --> 00:01:13,720
+- era davvero spaventoso.
+- Che cosa ha detto?
+
+21
+00:01:13,721 --> 00:01:18,041
+Mi ha dato il suo biglietto da visita e mi ha
+chiesto gentilmente di consegnarlo a Howard.
+
+22
+00:01:19,667 --> 00:01:21,629
+Non sembra una cosa spaventosa.
+
+23
+00:01:21,630 --> 00:01:24,028
+Per un bianco americano, no.
+
+24
+00:01:25,840 --> 00:01:29,974
+Per uno di colore che ha il nome
+pieno di sillabe, è davvero spaventoso.
+
+25
+00:01:31,422 --> 00:01:34,486
+Capisci che, se l'esercito dichiara
+la nostra scoperta confidenziale,
+
+26
+00:01:34,487 --> 00:01:38,455
+- può togliercela dalle mani.
+- E se succede, non potremo venderla più.
+
+27
+00:01:38,456 --> 00:01:40,612
+- Addio guadagno.
+- Quei soldi mi servono,
+
+28
+00:01:40,613 --> 00:01:44,129
+devo guadagnare quanto mia moglie,
+sono stanco di sforzarmi così tanto a letto.
+
+29
+00:01:45,547 --> 00:01:48,801
+- Capita anche a te?
+- Certo, secondo te perché resto così magro?
+
+30
+00:01:49,935 --> 00:01:52,684
+Signori, credo che stiamo perdendo
+di vista il vero problema.
+
+31
+00:01:52,722 --> 00:01:58,155
+Siamo vicini a diventare ingranaggi anonimi
+nel complesso industriale militare.
+
+32
+00:01:58,156 --> 00:01:59,852
+Non è fantastico?
+
+33
+00:02:00,503 --> 00:02:03,118
+- Stai scherzando, vero?
+- Niente affatto.
+
+34
+00:02:03,119 --> 00:02:07,293
+In Star Wars, quando gli Stormtrooper
+marciavano in formazione perfetta...
+
+35
+00:02:07,294 --> 00:02:11,216
+e tormentavano i civili, non avete mai
+pensato: "Ehi, quello potrei essere io"?
+
+36
+00:02:12,016 --> 00:02:14,456
+Sheldon, potremmo contribuire
+a creare un sistema di armi
+
+37
+00:02:14,457 --> 00:02:18,562
+che opprimerebbe l'umanità
+per i prossimi mille anni.
+
+38
+00:02:18,563 --> 00:02:20,639
+Okay, Howard è d'accordo.
+Tu che dici, Leonard?
+
+39
+00:02:22,470 --> 00:02:25,009
+The Big Bang Theory 10x02
+The Military Miniaturization
+
+40
+00:02:25,959 --> 00:02:27,977
+Traduzione: pegasusgio, Meryjo, Freyda
+
+41
+00:02:29,364 --> 00:02:30,751
+Revisione: Mlle Kurtz
+
+42
+00:02:40,944 --> 00:02:42,835
+www.subsfactory.it
+
+43
+00:02:51,216 --> 00:02:52,616
+Howard mi preoccupa.
+
+44
+00:02:52,617 --> 00:02:55,672
+Da quando si è presentato quel tipo
+dell'esercito, è sempre nervoso.
+
+45
+00:02:55,673 --> 00:02:59,298
+Allora, lavoriamo per un'importante compagnia
+farmaceutica. Dagli un po' di ansiolitici.
+
+46
+00:02:59,299 --> 00:03:03,159
+Non la prenderebbe, vuole solo
+pillole masticabili o a forma di Flintstone.
+
+47
+00:03:04,434 --> 00:03:07,509
+Sai, quando Leonard è preoccupato,
+gli faccio fare una bella camminata.
+
+48
+00:03:07,517 --> 00:03:11,116
+- E funziona?
+- Beh, per un po' sì. Poi torna.
+
+49
+00:03:12,618 --> 00:03:14,949
+- Non ci posso credere.
+- Che succede?
+
+50
+00:03:15,250 --> 00:03:18,659
+Uno dell'ufficio si è congratulato
+con me per la mia gravidanza.
+
+51
+00:03:18,802 --> 00:03:20,946
+Sapevi già di essere incinta, vero?
+
+52
+00:03:22,135 --> 00:03:24,868
+Al lavoro non lo sapeva nessuno.
+L'hai detto a qualcuno?
+
+53
+00:03:24,869 --> 00:03:26,434
+No, mi avevi detto di non farlo.
+
+54
+00:03:26,435 --> 00:03:29,156
+Scommetto che è stata Barbara Chen
+nel reparto dei retrovirali.
+
+55
+00:03:29,157 --> 00:03:31,190
+Deve avermi sentita vomitare una mattina.
+
+56
+00:03:31,191 --> 00:03:34,324
+Da quando ha messo l'apparecchio acustico
+si crede chissà chi.
+
+57
+00:03:36,420 --> 00:03:38,580
+Perché non vuoi che lo sappia nessuno?
+
+58
+00:03:38,581 --> 00:03:40,677
+Mi assegneranno uno studio
+sulle immunoterapie
+
+59
+00:03:40,678 --> 00:03:43,188
+e se scoprono che sono incinta
+potrebbero darlo ad altri.
+
+60
+00:03:43,189 --> 00:03:44,640
+Lo farebbero davvero?
+
+61
+00:03:44,641 --> 00:03:46,882
+E' sicuro, è successo
+l'anno scorso con Barbara Chen
+
+62
+00:03:46,883 --> 00:03:48,838
+dopo che ho detto a tutti che era incinta.
+
+63
+00:03:52,471 --> 00:03:54,814
+Non vedo l'ora di scrivere
+su Snapchat che i miei amici
+
+64
+00:03:54,815 --> 00:03:57,249
+lavoreranno a un progetto
+top secret del governo.
+
+65
+00:03:58,896 --> 00:04:01,831
+Sei fuori di testa?
+Non puoi scriverlo su Snapchat.
+
+66
+00:04:01,854 --> 00:04:04,859
+Va bene, allora lo posto su Facebook,
+come farebbe un uomo primitivo.
+
+67
+00:04:07,679 --> 00:04:10,397
+Forse prima dell'incontro
+dovremmo consultare un avvocato.
+
+68
+00:04:10,398 --> 00:04:11,865
+E' una buona idea.
+
+69
+00:04:11,866 --> 00:04:14,407
+Beh, di sicuro nella tua famiglia
+ci sarà un avvocato.
+
+70
+00:04:14,446 --> 00:04:16,118
+Ah, sì? Perché sono ebreo?
+
+71
+00:04:16,389 --> 00:04:19,958
+Allora ti dico: "Ehi, sei indiano,
+hai un cugino che lavora in un call center?"
+
+72
+00:04:22,143 --> 00:04:24,481
+Sì, mio cugino lavora in un call center.
+
+73
+00:04:26,859 --> 00:04:28,465
+E mio cugino è un avvocato.
+
+74
+00:04:30,383 --> 00:04:34,080
+Non abbiamo bisogno
+del cugino di Howard. Ci sono io.
+
+75
+00:04:35,371 --> 00:04:37,637
+Non sei un avvocato, Sheldon.
+Sei solo un saputello.
+
+76
+00:04:37,638 --> 00:04:41,500
+Non sono un saputello. Sono solo
+una persona che conosce molte cose
+
+77
+00:04:41,501 --> 00:04:43,946
+a cui piace correggere
+le altre persone quando sbagliano.
+
+78
+00:04:45,134 --> 00:04:47,249
+E' la definizione di saputello.
+
+79
+00:04:47,464 --> 00:04:49,937
+O, per dirlo in tedesco, un Besserwisser.
+
+80
+00:04:53,472 --> 00:04:55,698
+Come credevi di poter nascondere
+la tua gravidanza?
+
+81
+00:04:55,699 --> 00:05:00,460
+Avevo un piano, lasciare confezioni di gelato
+vuote in giro per spiegare l'aumento di peso.
+
+82
+00:05:01,563 --> 00:05:04,209
+Dove prenderesti
+le confezioni di gelato vuote?
+
+83
+00:05:04,210 --> 00:05:08,595
+Prima le compro e poi me le mangio!
+E' ovvio, sono incinta! Fa' domande sensate!
+
+84
+00:05:10,947 --> 00:05:13,821
+Scusatemi, vado a vedere
+se il mio capo sa qualcosa.
+
+85
+00:05:13,822 --> 00:05:16,113
+Beh, per qualsiasi cosa, siamo qui per te.
+
+86
+00:05:16,114 --> 00:05:19,053
+- Grazie, siete le migliori.
+- Già, guida piano. Ti vogliamo bene...
+
+87
+00:05:19,054 --> 00:05:21,860
+Oddio, sono stata io, ecco chi!
+Ho spifferato della sua gravidanza!
+
+88
+00:05:22,057 --> 00:05:23,390
+- Cosa?
+- Non volevo...
+
+89
+00:05:23,391 --> 00:05:26,398
+- parlavo con una sua collega, mi è sfuggito.
+- Ho lasciato il cappotto...
+
+90
+00:05:26,399 --> 00:05:29,766
+Ecco il tuo cappotto, tesoro!
+E' proprio una bella giacca.
+
+91
+00:05:31,195 --> 00:05:33,621
+Dio, mi sento uno schifo ad averle mentito!
+
+92
+00:05:33,622 --> 00:05:36,793
+Ma sei stata bravissima,
+è stato incredibile!
+
+93
+00:05:37,976 --> 00:05:41,407
+E' come guardare uno scultore,
+la tua argilla è fatta di bugie.
+
+94
+00:05:42,602 --> 00:05:47,180
+- Non è questo il punto, non credi?
+- Dico davvero, devo analizzarti il cervello
+
+95
+00:05:47,181 --> 00:05:49,897
+mentre dici bugie,
+devo scoprire quale parte si accende.
+
+96
+00:05:50,844 --> 00:05:53,920
+Questo sì che è d'aiuto, Amy.
+Grazie mille. Non vedo l'ora.
+
+97
+00:05:54,154 --> 00:05:57,097
+Posso vedere già da qui un ammasso
+di cellule stronze che si animano.
+
+98
+00:06:01,440 --> 00:06:04,050
+Datemi un secondo per chiamare mio cugino.
+
+99
+00:06:04,158 --> 00:06:07,176
+Non vedo come un avvocato fiscalista
+di Fort Lauderdale
+
+100
+00:06:07,181 --> 00:06:09,523
+possa esserci d'aiuto
+sulla proprietà intellettuale.
+
+101
+00:06:09,600 --> 00:06:13,653
+Innanzitutto, vive a Boca Raton,
+che è molto meglio di Fort Lauderdale.
+
+102
+00:06:14,724 --> 00:06:19,624
+Ma soprattutto ha retto due giorni a Jeopardy,
+quindi è chiaramente un tipo sveglio.
+
+103
+00:06:23,853 --> 00:06:25,066
+<i>Ciao.</i>
+
+104
+00:06:25,157 --> 00:06:27,471
+Ciao, Marty. Grazie per la chiacchierata.
+
+105
+00:06:27,493 --> 00:06:29,485
+<i>Ehi, figurati.
+Grazie per essere andato nello spazio,</i>
+
+106
+00:06:29,491 --> 00:06:32,006
+<i>così, qualsiasi cosa faccia,
+mia madre sarà sempre delusa di me.</i>
+
+107
+00:06:34,024 --> 00:06:37,050
+Beh, ho sposato una ragazzetta cattolica,
+quindi siamo pari.
+
+108
+00:06:37,837 --> 00:06:41,667
+Comunque, questi sono Leonard e Sheldon.
+Noi abbiamo ideato il sistema di controllo.
+
+109
+00:06:41,672 --> 00:06:43,563
+- Salve.
+- E lui è il mio amico, Raj.
+
+110
+00:06:43,717 --> 00:06:47,842
+Io non ho firmato il brevetto. Sono qui
+solo perché nel mio ufficio c'è un calabrone.
+
+111
+00:06:49,473 --> 00:06:50,965
+Io l'ho visto. E' enorme.
+
+112
+00:06:52,780 --> 00:06:55,915
+Comunque, come ti ho detto nell'email,
+l'incontro è giovedì.
+
+113
+00:06:55,925 --> 00:06:57,684
+Hai qualche consiglio per noi?
+
+114
+00:06:57,691 --> 00:06:59,861
+<i>Beh, non so molto sul diritto brevettuale.</i>
+
+115
+00:06:59,911 --> 00:07:01,575
+<i>Ma il mio consiglio è...</i>
+
+116
+00:07:01,749 --> 00:07:04,292
+<i>sentite che vogliono, date il minor numero
+di informazioni possibili,</i>
+
+117
+00:07:04,296 --> 00:07:06,653
+<i>e, qualsiasi cosa facciate,
+non firmate nulla.</i>
+
+118
+00:07:06,708 --> 00:07:09,458
+"Non firmate nulla"?
+E' questo il tuo consiglio?
+
+119
+00:07:09,466 --> 00:07:12,946
+Okay, quindi, se durante l'incontro,
+uno di noi dovesse, poniamo caso,
+
+120
+00:07:12,959 --> 00:07:16,991
+fare un dipinto a olio,
+ci consigli di lasciarlo anonimo?
+
+121
+00:07:18,644 --> 00:07:20,501
+<i>- Non è quello che intendevo.</i>
+- Ma ha detto così.
+
+122
+00:07:20,518 --> 00:07:21,813
+<i>Non è quello che intendevo.</i>
+
+123
+00:07:22,260 --> 00:07:24,596
+Forse è così che esercitate
+la professione legale a Boca Raton,
+
+124
+00:07:24,607 --> 00:07:27,498
+dicendo cose che non intendete
+e intendendo cose che non dite.
+
+125
+00:07:27,534 --> 00:07:29,700
+<i>Howard, perché mi sta urlando contro?</i>
+
+126
+00:07:31,540 --> 00:07:36,186
+D'accordo, sei stato a Jeopardy. Permettimi
+di farti una domanda alla Alex Trebek.
+
+127
+00:07:36,195 --> 00:07:39,234
+Chi è stato un totale
+spreco di tempo, per noi?
+
+128
+00:07:41,116 --> 00:07:42,283
+Marty, ti richiamo.
+
+129
+00:07:42,293 --> 00:07:45,214
+Un giorno, quando sarà accusato
+di omicidio, avrai mie notizie.
+
+130
+00:07:46,963 --> 00:07:49,135
+Non hai bisogno di lui. Ti rappresento io.
+
+131
+00:07:52,617 --> 00:07:54,488
+- Ciao.
+- Ehi. Come mai qui?
+
+132
+00:07:54,934 --> 00:07:57,422
+Sono dovuta andare al seminario
+sul nostro nuovo sonnifero.
+
+133
+00:07:57,672 --> 00:07:59,080
+- Com'è andata?
+- Benissimo.
+
+134
+00:07:59,093 --> 00:08:01,582
+- Ti sei addormentata?
+- Già, in circa due minuti.
+
+135
+00:08:02,364 --> 00:08:04,219
+Allora, come vanno le cose qui?
+
+136
+00:08:04,229 --> 00:08:06,722
+Sei ancora arrabbiata perché gli altri
+hanno scoperto che sei incinta?
+
+137
+00:08:06,886 --> 00:08:09,020
+Sono furiosa.
+
+138
+00:08:09,066 --> 00:08:10,781
+Certo, certo.
+
+139
+00:08:11,157 --> 00:08:12,879
+Hai poi scoperto chi l'ha detto?
+
+140
+00:08:12,957 --> 00:08:15,092
+No. Ho parlato con Barbara Chen,
+
+141
+00:08:15,102 --> 00:08:17,390
+ma ha detto di non saperne nulla.
+
+142
+00:08:18,017 --> 00:08:21,098
+Beh, immagino che resterà
+un mistero, sai, come...
+
+143
+00:08:21,190 --> 00:08:24,293
+qualsiasi cosa sia successa a quel seminario
+dopo che hanno abbassato le luci.
+
+144
+00:08:25,295 --> 00:08:26,812
+Deve essere stata Barbara.
+
+145
+00:08:26,954 --> 00:08:29,554
+Sto cercando un modo per fargliela pagare.
+
+146
+00:08:29,850 --> 00:08:34,441
+Credi sia troppo usare il suo computer
+per googlare "come diventare prostituta"?
+
+147
+00:08:36,361 --> 00:08:40,698
+Sai, al liceo, c'era questa ragazza
+che parlava male di me alle mie spalle...
+
+148
+00:08:40,748 --> 00:08:44,904
+così, io e le mie amiche l'abbiamo
+circondata in bagno e l'abbiamo perdonata.
+
+149
+00:08:46,693 --> 00:08:51,267
+Che razza di vendetta è? Questa ha mandato
+all'aria il mio lavoro. La deve pagare.
+
+150
+00:08:51,776 --> 00:08:54,036
+Okay, d'accordo, tesoro, la sai una cosa?
+
+151
+00:08:54,800 --> 00:08:58,481
+Ieri ero troppo spaventata
+per dirtelo e ora...
+
+152
+00:08:58,524 --> 00:09:01,103
+sono solo terrorizzata, ma...
+
+153
+00:09:01,649 --> 00:09:02,971
+la verità è che...
+
+154
+00:09:03,118 --> 00:09:05,394
+non è stata Barbara Chen, sono stata io.
+
+155
+00:09:05,515 --> 00:09:07,017
+E' colpa mia se lo sanno tutti.
+
+156
+00:09:07,211 --> 00:09:11,527
+- Perché l'hai fatto?
+- E' stato un incidente. Scusa se ho mentito.
+
+157
+00:09:12,875 --> 00:09:13,975
+Vai via.
+
+158
+00:09:19,632 --> 00:09:21,152
+Sai, ho anche...
+
+159
+00:09:21,216 --> 00:09:22,912
+mentito sulla ragazza nel bagno.
+
+160
+00:09:22,954 --> 00:09:26,870
+In realtà, le abbiamo buttato l'apparecchio
+nel cesso e gliel'abbiamo rimesso in bocca.
+
+161
+00:09:32,498 --> 00:09:35,166
+Non capisco perché
+non posso parlare all'incontro.
+
+162
+00:09:35,204 --> 00:09:37,634
+Perché, quando parli, irriti la gente.
+
+163
+00:09:39,856 --> 00:09:40,856
+Okay.
+
+164
+00:09:41,113 --> 00:09:45,767
+Domandina veloce. Posso scambiare
+convenevoli con questo colonnello?
+
+165
+00:09:45,940 --> 00:09:46,940
+Sì.
+
+166
+00:09:46,959 --> 00:09:51,172
+Posso informarlo che il colonnello Sanders
+non è mai stato nell'esercito?
+
+167
+00:09:52,852 --> 00:09:54,345
+- Mi sto irritando.
+- D'accordo.
+
+168
+00:09:56,513 --> 00:09:59,279
+- Posso usare il simulatore vocale?
+- No!
+
+169
+00:09:59,280 --> 00:10:00,846
+Non parlare.
+
+170
+00:10:02,446 --> 00:10:03,546
+Cose da pazzi.
+
+171
+00:10:04,040 --> 00:10:05,140
+Signori!
+
+172
+00:10:05,184 --> 00:10:07,866
+Sono il colonnello Williams.
+Grazie dell'incontro.
+
+173
+00:10:08,032 --> 00:10:09,267
+- Salve.
+- Salve.
+
+174
+00:10:11,380 --> 00:10:15,161
+Allora, chi di voi è la mente
+dietro a tutto questo?
+
+175
+00:10:15,847 --> 00:10:17,147
+E' un lavoro di gruppo,
+
+176
+00:10:17,181 --> 00:10:21,012
+ma suppongo che se dovessimo scegliere
+un cervellone, sarei io.
+
+177
+00:10:33,725 --> 00:10:36,537
+E, a causa dei vortici quantistici,
+resta costantemente in funzione?
+
+178
+00:10:36,575 --> 00:10:39,426
+Esattamente. Sì, ha
+una buona conoscenza della fisica.
+
+179
+00:10:39,447 --> 00:10:41,627
+Beh, sono uno scienziato per formazione.
+
+180
+00:10:41,742 --> 00:10:45,238
+- Davvero? E' un fisico?
+- Meglio. Sono un ingegnere.
+
+181
+00:10:51,276 --> 00:10:53,852
+- Che scuola ha frequentato?
+- L'MIT.
+
+182
+00:10:53,920 --> 00:10:56,440
+- Ehi, anch'io.
+- Avrei dovuto capirlo.
+
+183
+00:10:56,448 --> 00:10:59,081
+Dietro ogni grande invenzione
+c'è una mente del MIT.
+
+184
+00:11:03,162 --> 00:11:04,774
+Vado subito al dunque.
+
+185
+00:11:04,845 --> 00:11:08,169
+L'aeronautica crede che ci sia
+un'applicazione per questa tecnologia,
+
+186
+00:11:08,228 --> 00:11:10,941
+e siamo interessati
+a finanziare la vostra ricerca.
+
+187
+00:11:11,159 --> 00:11:14,008
+Beh, grazie, ma glielo devo dire...
+
+188
+00:11:14,054 --> 00:11:16,748
+non vorremmo che venisse usato
+nel campo militare.
+
+189
+00:11:17,004 --> 00:11:21,599
+Beh, ci tengo a rassicurarvi.
+Come lo useremo non sono cavoli vostri.
+
+190
+00:11:24,909 --> 00:11:27,036
+Non so cosa pensare.
+
+191
+00:11:27,178 --> 00:11:30,343
+Sentite, ragazzi, è solo
+un sistema di controllo. Non è che...
+
+192
+00:11:30,413 --> 00:11:33,052
+ci state consegnando
+la Morte Nera di Start Trek.
+
+193
+00:11:38,613 --> 00:11:41,471
+Ora come ora, dovete solo
+preoccuparvi del fatto che è...
+
+194
+00:11:41,643 --> 00:11:44,447
+grande così e a noi serve...
+
+195
+00:11:45,203 --> 00:11:46,303
+grande così.
+
+196
+00:11:46,319 --> 00:11:48,523
+E' molto meno grande.
+
+197
+00:11:49,518 --> 00:11:50,815
+Sì, è...
+
+198
+00:11:51,601 --> 00:11:52,919
+molto meno grande così.
+
+199
+00:11:53,910 --> 00:11:56,303
+Non sono nemmeno sicuro che sia possibile.
+
+200
+00:11:56,377 --> 00:12:00,859
+Beh, ho chiesto ai colleghi dell'MIT,
+e credono di poterlo fare in quattro mesi.
+
+201
+00:12:00,989 --> 00:12:03,147
+- Quattro mesi?
+- Sì, lo faremo in due!
+
+202
+00:12:04,377 --> 00:12:08,373
+Salve. Sono il dottor Sheldon Cooper.
+Sono il vero cervello dietro questo progetto.
+
+203
+00:12:08,380 --> 00:12:11,569
+E gli ingegneri non sono dei veri scienziati,
+il MIT è una scuola di second'ordine...
+
+204
+00:12:11,570 --> 00:12:14,618
+e la Morte Nera è di Star Wars,
+non Star Trek!
+
+205
+00:12:15,740 --> 00:12:18,196
+Comunque, grazie per servire il Paese.
+
+206
+00:12:25,370 --> 00:12:28,969
+Ciao, Howard mi ha detto che lavoravi
+fino a tardi, perciò ti ho portato la cena.
+
+207
+00:12:28,970 --> 00:12:31,250
+Grazie,
+vorrei solo riuscire a lavorare un po'
+
+208
+00:12:31,251 --> 00:12:34,263
+senza che la gente mi faccia
+le congratulazioni ogni cinque minuti.
+
+209
+00:12:34,264 --> 00:12:37,983
+Io ho passato la giornata sola in laboratorio
+ad aspettare che un ratto morisse di antrace.
+
+210
+00:12:39,567 --> 00:12:41,907
+Sei venuta a portarmi la cena o a gongolarti?
+
+211
+00:12:43,562 --> 00:12:46,040
+Beh, sono venuta a vedere come stavi, ma...
+
+212
+00:12:46,201 --> 00:12:47,793
+sei ancora arrabbiata, vedo.
+
+213
+00:12:47,821 --> 00:12:51,340
+Scusami, è che il mio capo vuole parlarmi
+e sono sotto stress.
+
+214
+00:12:51,550 --> 00:12:53,853
+Pensi davvero che cominceranno
+a trattarti diversamente?
+
+215
+00:12:53,854 --> 00:12:57,085
+Mi prendi in giro?
+Mi hanno sempre trattata diversamente.
+
+216
+00:12:57,086 --> 00:12:59,370
+Guardami! Ascolta questa voce!
+
+217
+00:12:59,371 --> 00:13:01,973
+Cioè, la prima cosa che pensi
+quando mi vedi non è...
+
+218
+00:13:01,974 --> 00:13:03,369
+"lei è una scienziata" ma...
+
+219
+00:13:03,370 --> 00:13:05,714
+"ma la sua mamma lo sa che è qui?"
+
+220
+00:13:08,484 --> 00:13:10,946
+Mi sto davvero pentendo
+di averti preso un Happy Meal.
+
+221
+00:13:15,080 --> 00:13:17,120
+Ho lavorato duramente
+per arrivare dove sono...
+
+222
+00:13:17,121 --> 00:13:20,467
+non voglio ricominciare dal basso
+solo perché sono incinta.
+
+223
+00:13:20,916 --> 00:13:22,688
+Capisco come ti senti.
+
+224
+00:13:22,896 --> 00:13:23,987
+Grazie.
+
+225
+00:13:24,123 --> 00:13:26,532
+Vorrei poter fare qualcosa
+per farti stare meglio.
+
+226
+00:13:26,708 --> 00:13:29,319
+Beh, mi hai portato le patatine fritte,
+è già qualcosa.
+
+227
+00:13:30,296 --> 00:13:33,100
+Veramente ti ho preso degli spicchi di mela,
+perché sai, sei incinta.
+
+228
+00:13:35,274 --> 00:13:36,942
+Spicchi di mela?
+
+229
+00:13:37,019 --> 00:13:40,211
+Che razza di pazzoide va al McDonald's
+e compra della frutta?
+
+230
+00:13:40,212 --> 00:13:41,270
+Torno subito!
+
+231
+00:13:42,949 --> 00:13:44,709
+E portami un milkshake al cioccolato!
+
+232
+00:13:50,426 --> 00:13:52,051
+- Ehi.
+- Ciao.
+
+233
+00:13:52,723 --> 00:13:53,723
+Che fai?
+
+234
+00:13:53,724 --> 00:13:57,156
+Leonard è arrabbiato con me,
+quindi sto facendo una torta al limone.
+
+235
+00:13:58,407 --> 00:14:00,284
+Ma gli piace almeno?
+
+236
+00:14:00,349 --> 00:14:01,470
+Non proprio.
+
+237
+00:14:02,480 --> 00:14:05,752
+Ma sono arrabbiato anch'io,
+perciò, torta al limone sia.
+
+238
+00:14:06,828 --> 00:14:08,509
+E' successo qualcosa col colonnello?
+
+239
+00:14:08,510 --> 00:14:11,875
+- Mi hanno fatto promettere di non parlare.
+- E l'hai fatto, giusto?
+
+240
+00:14:11,876 --> 00:14:14,817
+Visto? Anche tu te lo saresti aspettato,
+perché loro no?
+
+241
+00:14:15,993 --> 00:14:19,805
+Comunque, ora dobbiamo finire il progetto
+entro un termine assurdamente corto...
+
+242
+00:14:19,806 --> 00:14:21,360
+e ce l'hanno tutti con me.
+
+243
+00:14:21,800 --> 00:14:24,759
+Beh, se la cosa ti fa sentire meglio,
+anche Bernadette ce l'ha con me.
+
+244
+00:14:25,390 --> 00:14:27,426
+Se la cosa ti fa sentire meglio...
+
+245
+00:14:27,427 --> 00:14:30,198
+la vespa parassitoide,
+nota anche come Oobius depressus...
+
+246
+00:14:30,199 --> 00:14:33,968
+è stata riscoperta
+dopo 101 anni di presunta estinzione.
+
+247
+00:14:36,216 --> 00:14:37,851
+Perché dovrebbe farmi stare meglio?
+
+248
+00:14:37,852 --> 00:14:40,785
+Beh, perché la tua cosa con Bernadette
+dovrebbe far sentire meglio me?
+
+249
+00:14:41,513 --> 00:14:42,948
+Almeno la mia era istruttiva.
+
+250
+00:14:42,949 --> 00:14:44,975
+Va bene, lasciamo perdere.
+
+251
+00:14:44,976 --> 00:14:46,687
+Aspetta, mi dispiace.
+
+252
+00:14:46,707 --> 00:14:49,161
+Perché Bernadette ce l'ha con te?
+
+253
+00:14:50,151 --> 00:14:54,103
+Ho detto ai colleghi a lavoro che è incinta
+e lei non voleva ancora che si sapesse.
+
+254
+00:14:54,380 --> 00:14:57,566
+- Perché l'hai fatto?
+- Mi è scappato, ci sto malissimo.
+
+255
+00:14:57,567 --> 00:14:59,697
+Ecco! E' la stessa cosa che è successa a me!
+
+256
+00:14:59,698 --> 00:15:02,297
+Solo che io l'ho detto di proposito
+e non me ne pento.
+
+257
+00:15:05,392 --> 00:15:07,748
+E' almeno possibile
+finire il lavoro in due mesi?
+
+258
+00:15:07,749 --> 00:15:11,444
+Forse, non saprei. Dovremmo lavorare
+24 ore su 24, sette giorni su sette.
+
+259
+00:15:11,445 --> 00:15:13,862
+Quindi non potrò preparare
+la colazione per Penny ogni giorno...
+
+260
+00:15:13,863 --> 00:15:16,044
+e lei capirà
+che sono le brioche e i French toast...
+
+261
+00:15:16,045 --> 00:15:17,955
+che tengono in piedi il nostro matrimonio.
+
+262
+00:15:19,281 --> 00:15:21,430
+- Adoro i tuoi French toast.
+- Grazie.
+
+263
+00:15:23,180 --> 00:15:25,761
+Allora, perché avete accettato la scadenza?
+
+264
+00:15:25,762 --> 00:15:28,449
+- Non l'abbiamo accettata, è stato Sheldon.
+- E gliel'avete permesso?
+
+265
+00:15:28,450 --> 00:15:30,826
+Beh, il colonnello diceva
+che era per il bene del Paese...
+
+266
+00:15:30,827 --> 00:15:32,656
+e il finanziamento era piuttosto cospicuo.
+
+267
+00:15:32,657 --> 00:15:36,635
+Più che altro c'era un silenzio imbarazzante
+e io l'ho rotto dicendo "okay".
+
+268
+00:15:38,612 --> 00:15:41,661
+Quindi immagino che non vi vedrò per un po'.
+
+269
+00:15:41,723 --> 00:15:43,923
+- Sembra proprio di sì.
+- Wow...
+
+270
+00:15:43,924 --> 00:15:46,599
+state andando a lavorare per l'esercito
+lasciandomi qui.
+
+271
+00:15:46,607 --> 00:15:49,242
+Adesso so come si sentono
+le mogli dei soldati.
+
+272
+00:15:51,381 --> 00:15:53,898
+Ma smettila,
+saremo solo dall'alta parte del campus.
+
+273
+00:15:53,899 --> 00:15:55,600
+E anche qui.
+
+274
+00:15:57,836 --> 00:16:00,211
+Sei veramente un cretino.
+
+275
+00:16:02,427 --> 00:16:04,563
+Ha così tanta paura
+di mostrare quello che prova.
+
+276
+00:16:09,997 --> 00:16:11,495
+Oh, ciao.
+
+277
+00:16:11,579 --> 00:16:12,591
+Hai un minuto?
+
+278
+00:16:12,667 --> 00:16:14,274
+Certo, entra.
+
+279
+00:16:16,788 --> 00:16:18,544
+Volevo chiederti scusa.
+
+280
+00:16:18,790 --> 00:16:20,600
+So che non l'hai fatto apposta.
+
+281
+00:16:21,307 --> 00:16:23,831
+Grazie, e scusa se non te l'ho detto subito.
+
+282
+00:16:24,139 --> 00:16:26,071
+Per quello che vale, sei un'ottima bugiarda.
+
+283
+00:16:26,127 --> 00:16:28,341
+Oh, è la stessa cosa che ha detto Amy.
+
+284
+00:16:30,064 --> 00:16:32,915
+Quindi, come va con quel progetto di ricerca?
+Ti prenderanno?
+
+285
+00:16:32,932 --> 00:16:35,038
+Il mio capo non ha ancora deciso...
+
+286
+00:16:35,039 --> 00:16:38,044
+quindi gli ho ricordato con gentilezza
+che è vecchio, bianco e ricco...
+
+287
+00:16:38,045 --> 00:16:41,497
+ed io sono una dolce, piccola ragazza
+che non ha paura di piangere in tribunale.
+
+288
+00:16:43,801 --> 00:16:45,502
+Hai minacciato di fargli causa?
+
+289
+00:16:45,503 --> 00:16:48,363
+Ehi, molto tempo fa, ho imparato
+che se sei un metro e 25...
+
+290
+00:16:48,364 --> 00:16:51,719
+e arrivi praticamente al pacco
+di ogni ragazzo, è lì che devi colpire.
+
+291
+00:16:53,820 --> 00:16:56,586
+Strano, io ho imparato
+cose completamente diverse a proposito.
+
+292
+00:16:59,479 --> 00:17:01,990
+Sai che ti dico?
+E' solo un progetto di ricerca.
+
+293
+00:17:01,991 --> 00:17:05,211
+Il lavoro più importante del mondo
+sarà crescere questo bambino.
+
+294
+00:17:05,212 --> 00:17:07,603
+Non mi serve altro
+per dare significato alla mia vita.
+
+295
+00:17:07,604 --> 00:17:09,387
+Che belle parole.
+
+296
+00:17:09,388 --> 00:17:11,159
+Ci hai creduto? Bene!
+
+297
+00:17:11,160 --> 00:17:14,041
+Altri 11 fessi come te
+e avrò la giuria in pugno.
+
+298
+00:17:17,240 --> 00:17:20,259
+Non mi ero mai reso conto
+che questo edificio fosse top secret.
+
+299
+00:17:20,399 --> 00:17:22,998
+Forse perché è top secret.
+
+300
+00:17:25,842 --> 00:17:28,422
+Vorrei che non fosse così lontano
+dal mio posto auto.
+
+301
+00:17:28,523 --> 00:17:32,004
+A giudicare da come ti sei scofanato quella
+torta al limone, magari è una cosa buona.
+
+302
+00:17:33,290 --> 00:17:35,703
+Vorrei ripristinare
+quella regola che non devi parlare.
+
+303
+00:17:35,704 --> 00:17:37,994
+Perché? E' ovvio che non funziona.
+
+304
+00:17:40,618 --> 00:17:42,079
+Mi sa che ci siamo.
+
+305
+00:17:42,375 --> 00:17:44,182
+E' uno scanner della retina quello?
+
+306
+00:17:44,183 --> 00:17:45,939
+Vediamo un po'.
+
+307
+00:17:47,171 --> 00:17:49,760
+<i>Howard Wolowitz, accesso consentito.</i>
+
+308
+00:17:49,761 --> 00:17:51,238
+- Fico!
+- Impressionante!
+
+309
+00:17:51,239 --> 00:17:52,587
+Tocca a me, tocca a me.
+
+310
+00:17:53,640 --> 00:17:55,961
+<i>Leonard Hofstadter, accesso consentito.</i>
+
+311
+00:17:55,962 --> 00:17:58,334
+Non mi devo nemmeno togliere gli occhiali!
+
+312
+00:18:03,087 --> 00:18:04,709
+<i>Accesso negato.</i>
+
+313
+00:18:04,710 --> 00:18:06,524
+- Funziona!
+- Funziona!
+
+314
+00:18:14,887 --> 00:18:16,954
+Oh! Oh! Oh! Ragazzi, giratemi a testa in giù!
+
+315
+00:18:25,307 --> 00:18:27,571
+<i>Howard Wolowitz, accesso consentito.</i>
+
+316
+00:18:27,572 --> 00:18:29,201
+- Sì!
+- Sì!
+
+317
+00:18:31,200 --> 00:18:35,240
+www.subsfactory.it
+

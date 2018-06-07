@@ -1,0 +1,1655 @@
+1
+00:00:03,346 --> 00:00:06,314
+Ho inventato una battuta
+a sfondo scientifico, vuoi sentirla?
+
+2
+00:00:06,315 --> 00:00:07,315
+Certo.
+
+3
+00:00:07,638 --> 00:00:10,836
+Quanti Edison ci vogliono
+per cambiare una lampadina?
+
+4
+00:00:11,665 --> 00:00:12,643
+Quanti?
+
+5
+00:00:12,644 --> 00:00:16,009
+Chi se ne importa? Ha rubato l'idea,
+e non merita una battuta tutta per lui.
+
+6
+00:00:17,104 --> 00:00:18,631
+E' vero, almeno?
+
+7
+00:00:18,709 --> 00:00:21,173
+Certo, ed è così che capisci
+che è una bella battuta.
+
+8
+00:00:21,174 --> 00:00:23,957
+Non è solo divertente, ma anche istruttiva.
+
+9
+00:00:25,775 --> 00:00:27,420
+Ehi, scusate l'interruzione.
+
+10
+00:00:27,421 --> 00:00:28,478
+Barry...
+
+11
+00:00:28,479 --> 00:00:31,224
+quanti Edison ci vogliono
+per cambiare una lampadina?
+
+12
+00:00:31,225 --> 00:00:33,742
+Lo sai che non le ha inventate Edison
+le lampadine?
+
+13
+00:00:37,190 --> 00:00:38,488
+Che vuoi, Barry?
+
+14
+00:00:39,700 --> 00:00:42,499
+Volevo solo dare questo come pensierino
+di ringraziamento ad Amy.
+
+15
+00:00:42,500 --> 00:00:43,840
+Per cosa?
+
+16
+00:00:43,841 --> 00:00:45,665
+La tua idea mi ha aiutato molto.
+
+17
+00:00:45,666 --> 00:00:48,300
+Il mio articolo sulla quantizzazione
+di cono-luce è già online.
+
+18
+00:00:48,301 --> 00:00:50,804
+Le reazioni sono state pazzesche.
+
+19
+00:00:50,805 --> 00:00:53,227
+Beh, è affascinante,
+non vedo l'ora di leggerlo.
+
+20
+00:00:53,228 --> 00:00:54,736
+No, anch'io.
+
+21
+00:00:54,737 --> 00:00:58,378
+Ti prego di inviarmela a sheldon@bazinga.biz
+
+22
+00:00:59,146 --> 00:01:02,024
+Perché .biz? Perché ti ho
+bizzarramente ceduto il mio campo di studi.
+
+23
+00:01:02,797 --> 00:01:04,849
+E anche perché bazinga.com era già preso.
+
+24
+00:01:06,853 --> 00:01:08,785
+Comunque, grazie ancora.
+
+25
+00:01:08,786 --> 00:01:10,600
+Cooper, ciucciati un uovo.
+
+26
+00:01:13,026 --> 00:01:15,299
+Da quando aiuti Barry Kripke?
+
+27
+00:01:15,300 --> 00:01:18,870
+Beh, riflettevo su una prospettiva da automa
+cellulare alla connettività neuronale,
+
+28
+00:01:18,871 --> 00:01:21,788
+e ho pensato che potesse avere applicazioni
+interessanti nella teoria delle stringhe.
+
+29
+00:01:21,789 --> 00:01:23,008
+Niente di che.
+
+30
+00:01:23,355 --> 00:01:24,533
+Ah, davvero?
+
+31
+00:01:24,534 --> 00:01:27,031
+Quando lavoravo sulla teoria delle stringhe
+ed ero a un binario morto,
+
+32
+00:01:27,032 --> 00:01:28,679
+perché non hai provato ad aiutarmi?
+
+33
+00:01:28,680 --> 00:01:31,707
+L'ho fatto. Hai detto i biologi,
+di matematica, sapevano solo
+
+34
+00:01:31,708 --> 00:01:35,426
+che se hai tre rane e una salta via,
+allora ti restano due rane.
+
+35
+00:01:37,043 --> 00:01:39,163
+E' molto divertente, potrei averla detta io.
+
+36
+00:01:39,532 --> 00:01:42,530
+Ma non significa che debba startene
+agli angoli delle strade
+
+37
+00:01:42,531 --> 00:01:45,209
+a dare via la tua matematica
+a qualunque tizio ti passi accanto.
+
+38
+00:01:47,233 --> 00:01:48,888
+Sheldon, siamo tutti scienziati.
+
+39
+00:01:48,889 --> 00:01:50,555
+Ho aiutato un collega.
+
+40
+00:01:50,556 --> 00:01:51,819
+Sei immaturo.
+
+41
+00:01:52,166 --> 00:01:53,948
+Sarei io l'immaturo?
+
+42
+00:01:54,004 --> 00:01:56,727
+Sai che tra me e Barry
+c'è una rivalità professionale.
+
+43
+00:01:56,728 --> 00:01:59,173
+L'hai sentito. Mi ha detto
+di ciucciarmi un uovo.
+
+44
+00:01:59,207 --> 00:02:02,961
+Se fossimo amici, mi avrebbe detto
+di ciucciare qualcosa di più piacevole.
+
+45
+00:02:05,382 --> 00:02:06,840
+Perché ridi?
+
+46
+00:02:07,667 --> 00:02:09,168
+Hai imparato qualcosa?
+
+47
+00:02:10,620 --> 00:02:14,626
+The Big Bang Theory 8x15
+The Comic Store Regeneration
+
+48
+00:02:15,469 --> 00:02:19,783
+Traduzione e synch: eurolander,
+Morganafire22, Parzylla
+
+49
+00:02:21,188 --> 00:02:24,045
+Revisione: Mlle Kurtz
+
+50
+00:02:29,032 --> 00:02:31,434
+www.subsfactory.it
+
+51
+00:02:39,837 --> 00:02:40,837
+Okay, mamma.
+
+52
+00:02:40,838 --> 00:02:42,513
+Salutami zia Gladys.
+
+53
+00:02:42,742 --> 00:02:44,048
+Sì, ti voglio bene anch'io.
+
+54
+00:02:44,201 --> 00:02:45,201
+Ciao.
+
+55
+00:02:45,250 --> 00:02:46,773
+Tua madre si sta divertendo in Florida?
+
+56
+00:02:46,893 --> 00:02:51,234
+Le piace un sacco. Finalmente ha trovato
+un posto dove tutti parlano di quanto sudano.
+
+57
+00:02:52,512 --> 00:02:54,230
+Comunque, vuole che andiamo a casa,
+
+58
+00:02:54,231 --> 00:02:57,051
+e vediamo come sta Stuart,
+perché potrebbe sentirsi "solo".
+
+59
+00:02:57,884 --> 00:02:59,277
+Vuole solo essere carina.
+
+60
+00:02:59,278 --> 00:03:03,105
+Beh, sono io suo figlio, come mai non manda
+nessuno a vedere se io mi sento solo?
+
+61
+00:03:03,489 --> 00:03:05,077
+Perché tu hai una moglie.
+
+62
+00:03:08,180 --> 00:03:10,612
+Già, beh, a volte lavori fino a tardi.
+
+63
+00:03:12,291 --> 00:03:14,219
+So che non ti va bene che Stuart stia a casa,
+
+64
+00:03:14,220 --> 00:03:17,188
+ma il negozio sta per riaprire, sono certa
+che si rimetterà in carreggiata.
+
+65
+00:03:17,189 --> 00:03:21,264
+Sarebbe perfetto. Vorrei tanto che le cose
+tra me e mamma tornassero alla normalità.
+
+66
+00:03:21,265 --> 00:03:22,265
+Beh...
+
+67
+00:03:22,266 --> 00:03:24,403
+normalità è un parolone, ma certo...
+
+68
+00:03:28,988 --> 00:03:29,988
+Ehi.
+
+69
+00:03:30,242 --> 00:03:31,688
+Ciao...
+
+70
+00:03:32,080 --> 00:03:33,080
+Stai bene?
+
+71
+00:03:33,183 --> 00:03:34,983
+Se stessi bene, ti avrei detto "Ciao!"
+
+72
+00:03:34,984 --> 00:03:37,294
+E non il ben più sinistro "Ciao...".
+
+73
+00:03:38,442 --> 00:03:39,565
+Che ti prende?
+
+74
+00:03:39,696 --> 00:03:41,284
+Sono arrabbiato con Amy.
+
+75
+00:03:41,285 --> 00:03:44,667
+Anche a te ha lasciato macchie di sudore
+sulla tua maglietta preferita?
+
+76
+00:03:45,620 --> 00:03:46,620
+No.
+
+77
+00:03:47,750 --> 00:03:51,186
+Ha aiutato Barry Kripke a elaborare
+uno sviluppo nella teoria delle stringhe.
+
+78
+00:03:51,804 --> 00:03:53,392
+Sembra una buona cosa.
+
+79
+00:03:53,393 --> 00:03:54,710
+Beh, lo sarebbe...
+
+80
+00:03:54,711 --> 00:03:56,399
+ma ho abbandonato la teoria delle stringhe,
+
+81
+00:03:56,400 --> 00:03:58,397
+perché ho deciso che era un binario morto.
+
+82
+00:03:58,398 --> 00:04:00,265
+Già, e poi ha agito alle mie spalle...
+
+83
+00:04:00,266 --> 00:04:02,171
+aiutando qualcun altro
+a dimostrare che avevo torto.
+
+84
+00:04:02,172 --> 00:04:04,154
+E niente meno che la mia nemesi.
+
+85
+00:04:15,513 --> 00:04:17,271
+Mi spiace che tu l'abbia dovuto vedere.
+
+86
+00:04:18,410 --> 00:04:20,280
+Mi dispiace non aver avuto una videocamera.
+
+87
+00:04:21,368 --> 00:04:22,891
+Perché farmi una cosa del genere?
+
+88
+00:04:22,892 --> 00:04:25,626
+Beh, sono certa che non abbia voluto
+ferirti di proposito.
+
+89
+00:04:25,803 --> 00:04:27,001
+E poi, non eri tu...
+
+90
+00:04:27,002 --> 00:04:30,375
+quello che diceva che niente è più importante
+dell'avanzamento della scienza?
+
+91
+00:04:30,376 --> 00:04:34,436
+No, ho detto che niente è più importante
+di me che faccio avanzare la scienza.
+
+92
+00:04:35,379 --> 00:04:38,937
+Beh, se ho capito bene, non ha fatto altro
+che aiutare un altro scienziato.
+
+93
+00:04:38,938 --> 00:04:42,025
+Penso che tu debba solo lasciar perdere.
+
+94
+00:04:42,510 --> 00:04:43,608
+"Lasciar perdere".
+
+95
+00:04:43,609 --> 00:04:45,407
+E' tutta la vita che me lo ripetono.
+
+96
+00:04:45,408 --> 00:04:47,927
+Quando mi arrabbio per qualcosa,
+qualcuno mi dice sempre "Lascia perdere."
+
+97
+00:04:47,928 --> 00:04:49,495
+Sai, come se fosse colpa mia...
+
+98
+00:04:49,496 --> 00:04:51,649
+e il sentimento che provo fosse sbagliato.
+
+99
+00:04:51,820 --> 00:04:53,446
+Non so che dirti.
+
+100
+00:04:53,447 --> 00:04:54,631
+Perché non le parli?
+
+101
+00:04:55,238 --> 00:04:56,463
+Tutto qui il tuo consiglio?
+
+102
+00:04:56,464 --> 00:04:59,698
+Massime stantie come
+"Parlale" o "Lascia stare"?
+
+103
+00:04:59,699 --> 00:05:02,853
+Cavolo, Penny, cosa dovrei fare
+quando si chiude una porta?
+
+104
+00:05:02,854 --> 00:05:04,983
+Beh, potresti buttarti
+dalla finestra che si è aperta.
+
+105
+00:05:07,449 --> 00:05:09,577
+Okay, ora cominci a essere creativa.
+
+106
+00:05:11,642 --> 00:05:13,056
+Grazie ancora per l'aiuto.
+
+107
+00:05:13,057 --> 00:05:15,442
+- Nessun problema. E' un gran bel posto.
+- Nessun problema. Piacere nostro.
+
+108
+00:05:15,443 --> 00:05:17,420
+Già, avresti dovuto incendiarlo anni fa.
+
+109
+00:05:18,969 --> 00:05:21,346
+Continuo a dirvi che non l'ho incendiato io.
+
+110
+00:05:21,347 --> 00:05:25,220
+Lo sappiamo, perché incendiare qualcosa
+per i soldi dell'assicurazione è un "reato".
+
+111
+00:05:27,947 --> 00:05:30,301
+Stuart, questo posto è fantastico.
+
+112
+00:05:30,302 --> 00:05:33,021
+- Grazie.
+- Hai fatto un ottimo lavoro.
+
+113
+00:05:33,051 --> 00:05:34,830
+E grazie per aver...
+
+114
+00:05:34,831 --> 00:05:37,289
+sopportato che stessi da tua madre
+durante questo periodaccio.
+
+115
+00:05:37,290 --> 00:05:39,558
+Non avrei potuto farcela, altrimenti.
+
+116
+00:05:39,690 --> 00:05:42,753
+Lo apprezzo,
+e sono felice che tu abbia potuto...
+
+117
+00:05:44,145 --> 00:05:45,956
+Sono i mobili di mia madre?
+
+118
+00:05:48,296 --> 00:05:51,311
+Sì, ha detto che potevo usarli.
+Non sono fantastici?
+
+119
+00:05:51,641 --> 00:05:55,474
+Non quanto lo sarebbero
+nel salotto in cui dovrebbero stare.
+
+120
+00:05:55,725 --> 00:05:57,574
+- Howie...
+- Ma perché non hai...
+
+121
+00:05:57,575 --> 00:05:59,088
+razziato l'intera stanza?
+
+122
+00:05:59,089 --> 00:06:01,585
+Potevi prendere il clown di corda
+che le ho fatto in terza elementare...
+
+123
+00:06:01,586 --> 00:06:04,450
+e il nastro che ho avuto a lezione di nuoto
+per aver messo la testa sott'acqua.
+
+124
+00:06:05,242 --> 00:06:07,526
+Che problema hai?
+Ha detto che le andava bene.
+
+125
+00:06:07,527 --> 00:06:10,128
+Beh, sono io suo figlio,
+e dico che non va bene.
+
+126
+00:06:10,129 --> 00:06:14,125
+Che figlio... ci hai messo tipo dieci minuti
+a fare quella marionettina.
+
+127
+00:06:15,597 --> 00:06:17,445
+Forse dovevo andare come te
+in una scuola d'arte figa,
+
+128
+00:06:17,446 --> 00:06:20,911
+e poi finire a gestire un negozio di fumetti
+fallito e bazzicare dalla madre di qualcuno.
+
+129
+00:06:22,166 --> 00:06:24,137
+Perché non usciamo, così ti calmi?
+
+130
+00:06:24,138 --> 00:06:27,048
+Sì, buona idea,
+portalo fuori dal mio negozio.
+
+131
+00:06:27,049 --> 00:06:29,758
+Il tuo negozio? Mia madre
+ti ha dato i soldi per riaprire.
+
+132
+00:06:29,759 --> 00:06:31,763
+- Io non me ne vado da qui.
+- Noi...
+
+133
+00:06:31,764 --> 00:06:33,591
+andiamo a prendere il cibo per la festa.
+
+134
+00:06:33,592 --> 00:06:34,597
+Grazie.
+
+135
+00:06:34,598 --> 00:06:35,604
+Furbo...
+
+136
+00:06:35,605 --> 00:06:36,912
+sembra che aiutiamo.
+
+137
+00:06:36,913 --> 00:06:40,330
+Mentre invece stiamo solo svicolando
+da una situazione sgradevole.
+
+138
+00:06:43,330 --> 00:06:46,402
+Kripke, di tutte le persone possibili,
+proprio Barry Kripke. Sono...
+
+139
+00:06:46,403 --> 00:06:49,664
+Stai piegando i vestiti come una pazza
+per spingermi a farlo per te?
+
+140
+00:06:51,154 --> 00:06:52,166
+No.
+
+141
+00:06:54,360 --> 00:06:55,502
+Dammi qua.
+
+142
+00:07:01,708 --> 00:07:03,725
+Solo per curiosità...
+
+143
+00:07:03,726 --> 00:07:06,745
+se mai volessi lasciar perdere...
+
+144
+00:07:06,746 --> 00:07:08,118
+come dovrei fare?
+
+145
+00:07:08,575 --> 00:07:10,732
+Non lo so, cerca di pensare a qualcos'altro.
+
+146
+00:07:12,143 --> 00:07:14,255
+Posso pensare al formichiere spinoso?
+
+147
+00:07:14,256 --> 00:07:15,256
+Certo.
+
+148
+00:07:15,764 --> 00:07:17,826
+Il formichiere spinoso...
+
+149
+00:07:18,052 --> 00:07:21,435
+non ha mai agito alle mie spalle,
+lavorando con Barry Kripke.
+
+150
+00:07:23,188 --> 00:07:24,806
+Non è stato per niente d'aiuto.
+
+151
+00:07:26,094 --> 00:07:28,791
+Sai, alcuni usano la visualizzazione.
+
+152
+00:07:28,874 --> 00:07:30,229
+Come funziona?
+
+153
+00:07:31,843 --> 00:07:32,843
+Okay...
+
+154
+00:07:34,178 --> 00:07:37,015
+immagina i tuoi problemi come una penna.
+
+155
+00:07:39,045 --> 00:07:42,632
+- Okay.
+- Ora pensa di tenere in mano quella penna.
+
+156
+00:07:47,636 --> 00:07:48,636
+Okay.
+
+157
+00:07:49,431 --> 00:07:52,502
+Adesso apri la mano e lasciala andare.
+
+158
+00:07:52,615 --> 00:07:54,390
+Ma ho appena preso la penna.
+
+159
+00:07:55,731 --> 00:07:58,291
+Ha incise le mie iniziali e tutto il resto.
+
+160
+00:07:58,519 --> 00:07:59,519
+Guarda.
+
+161
+00:08:02,239 --> 00:08:04,694
+Sheldon, non è così difficile.
+
+162
+00:08:07,123 --> 00:08:09,345
+Forse ho un metodo migliore
+che puoi insegnarmi.
+
+163
+00:08:09,346 --> 00:08:10,346
+Quale?
+
+164
+00:08:11,170 --> 00:08:12,511
+E se ti dicessi...
+
+165
+00:08:12,512 --> 00:08:14,327
+che in questi ultimi mesi...
+
+166
+00:08:14,328 --> 00:08:17,235
+Amy ti ha sottoposto
+dei piccoli rompicapi di nascosto...
+
+167
+00:08:17,236 --> 00:08:20,944
+per confrontare la tua intelligenza
+con quella degli scimpanzé in laboratorio?
+
+168
+00:08:22,685 --> 00:08:24,729
+Cosa? Non mi ha dato nessun rompicapo.
+
+169
+00:08:24,869 --> 00:08:26,156
+Sei sicura?
+
+170
+00:08:29,065 --> 00:08:30,163
+Cavolo, non...
+
+171
+00:08:30,164 --> 00:08:32,524
+riesco a rimettere insieme queste forbici.
+
+172
+00:08:32,525 --> 00:08:33,877
+Tu ci riesci?
+
+173
+00:08:36,418 --> 00:08:39,110
+Accidenti. Ho qualcosa in un occhio...
+
+174
+00:08:39,111 --> 00:08:41,987
+e devo dividere queste monete per grandezza.
+
+175
+00:08:41,988 --> 00:08:43,335
+Mi aiuti?
+
+176
+00:08:49,853 --> 00:08:50,853
+Penny?
+
+177
+00:08:51,375 --> 00:08:53,365
+Vorrei tanto mangiare questa banana, ma...
+
+178
+00:08:53,366 --> 00:08:56,376
+è incastrata
+in questa scatola-rompicapo di bambù.
+
+179
+00:08:58,869 --> 00:09:00,802
+Porca puttana!
+
+180
+00:09:02,082 --> 00:09:03,952
+Okay, fantastico. E adesso...
+
+181
+00:09:04,406 --> 00:09:05,679
+lascia perdere.
+
+182
+00:09:14,594 --> 00:09:17,634
+Mi avete confrontato
+con una scimmia, non ci credo!
+
+183
+00:09:17,635 --> 00:09:20,297
+Scusami, ma Amy vi stava confrontando.
+
+184
+00:09:20,298 --> 00:09:22,488
+Io facevo il tifo per te.
+
+185
+00:09:23,917 --> 00:09:26,301
+Bel lavoro col rompicapo
+della banana, a proposito.
+
+186
+00:09:27,589 --> 00:09:29,566
+Ma perché l'avrebbe fatto?
+
+187
+00:09:29,567 --> 00:09:31,834
+Stava conducendo un esperimento sulle scimmie
+
+188
+00:09:31,835 --> 00:09:34,025
+in cui gli si danno rompicapi da risolvere.
+
+189
+00:09:34,026 --> 00:09:36,480
+Ero sorpreso della complessità dei rompicapi,
+
+190
+00:09:36,481 --> 00:09:38,901
+e pensavo che alcuni umani
+non saprebbero risolverli.
+
+191
+00:09:38,902 --> 00:09:41,736
+E allora Amy ha detto:
+"Vuoi renderla più interessante?".
+
+192
+00:09:43,355 --> 00:09:46,456
+Renderla interessante"?
+Avete scommesso soldi su di me?
+
+193
+00:09:46,457 --> 00:09:47,502
+No, no.
+
+194
+00:09:47,503 --> 00:09:50,206
+Abbiamo preparato un esperimento
+con te come protagonista.
+
+195
+00:09:50,207 --> 00:09:52,599
+Capisci? Non è interessante?
+
+196
+00:09:53,781 --> 00:09:56,885
+Non è interessante. E' davvero insultante.
+
+197
+00:09:56,886 --> 00:09:59,215
+Okay, forse questo ti potrà aiutare...
+
+198
+00:09:59,465 --> 00:10:01,570
+immagina di avere in mano una penna.
+
+199
+00:10:03,394 --> 00:10:07,822
+Prima di continuare, non una penna speciale
+con le tue iniziali sopra...
+
+200
+00:10:07,823 --> 00:10:10,395
+- o proseguire diventa molto difficile.
+- Oh, mio Dio.
+
+201
+00:10:10,509 --> 00:10:12,202
+Basta, vattene via!
+
+202
+00:10:12,203 --> 00:10:14,398
+Non capisco perché sei arrabbiata con me.
+
+203
+00:10:14,399 --> 00:10:15,854
+Dovresti esserlo con Amy.
+
+204
+00:10:15,855 --> 00:10:17,986
+Come lo ero io oggi pomeriggio.
+
+205
+00:10:17,987 --> 00:10:20,974
+- Ehi, visto? Ho lasciato perdere.
+- Vattene via!
+
+206
+00:10:23,929 --> 00:10:25,512
+- Penny?
+- Cosa?
+
+207
+00:10:26,161 --> 00:10:28,133
+Mi sa che ho lasciato lì la mia penna.
+
+208
+00:10:31,938 --> 00:10:36,542
+Capisco perché sei arrabbiato,
+ma ha lavorato sodo per preparare il negozio.
+
+209
+00:10:36,543 --> 00:10:38,310
+E sono solo mobili.
+
+210
+00:10:38,311 --> 00:10:41,769
+I mobili di mia mamma. Appartengono
+alla casa in cui sono cresciuto...
+
+211
+00:10:41,770 --> 00:10:44,137
+vicino alla pila di guide TV e...
+
+212
+00:10:44,138 --> 00:10:46,689
+a quello che, per un bambino
+di 10 anni, era...
+
+213
+00:10:46,690 --> 00:10:48,430
+una grande opera d'arte di corda!
+
+214
+00:10:51,532 --> 00:10:54,526
+Howie, se il negozio avesse successo,
+Stuart guadagnerebbe soldi,
+
+215
+00:10:54,527 --> 00:10:56,567
+e potrebbe andare via da casa di tua madre.
+
+216
+00:10:56,568 --> 00:10:59,958
+Credo che qualche vecchio mobile
+sia un prezzo ragionevole da pagare.
+
+217
+00:11:00,941 --> 00:11:02,311
+Ottima pensata.
+
+218
+00:11:02,312 --> 00:11:04,981
+Però non ti ho sposato per le pensate,
+ma per sostenermi ciecamente
+
+219
+00:11:04,982 --> 00:11:06,773
+anche su cose ridicole!
+
+220
+00:11:09,439 --> 00:11:12,233
+Ecco perché ho dovuto riscrivere
+i nostri voti nuziali.
+
+221
+00:11:17,069 --> 00:11:19,249
+Salve, siamo qui per ritirare
+un ordine per il Comic Center.
+
+222
+00:11:19,250 --> 00:11:21,037
+Certo, fatemi controllare.
+
+223
+00:11:22,562 --> 00:11:23,562
+Ehi...
+
+224
+00:11:23,922 --> 00:11:26,135
+credo che quello sia Nathan Fillion.
+
+225
+00:11:27,104 --> 00:11:29,203
+Sì, ma pensa un po'.
+
+226
+00:11:29,204 --> 00:11:32,724
+E sta togliendo i pomodori dall'insalata,
+proprio come faccio io!
+
+227
+00:11:33,564 --> 00:11:35,739
+Ho sempre pensato che fossimo connessi.
+
+228
+00:11:37,731 --> 00:11:39,044
+Mi è venuta un'idea.
+
+229
+00:11:39,045 --> 00:11:41,815
+Non venderemo i suoi pomodori su eBay.
+
+230
+00:11:42,759 --> 00:11:46,354
+No, se convincessimo
+il capitano Reynolds di Firefly...
+
+231
+00:11:46,355 --> 00:11:48,627
+a venire a fare autografi
+al negozio di Stuart...
+
+232
+00:11:48,628 --> 00:11:50,038
+sarebbe fantastico.
+
+233
+00:11:50,039 --> 00:11:51,546
+Sarebbe grandioso.
+
+234
+00:11:51,547 --> 00:11:53,305
+Allora, andiamo a parlargli?
+
+235
+00:11:53,474 --> 00:11:55,646
+Non lo so. Se non fosse gentile...
+
+236
+00:11:55,647 --> 00:11:58,794
+farei fatica a guardarlo ancora in TV.
+
+237
+00:11:58,795 --> 00:12:00,100
+Cosa? Il tizio che...
+
+238
+00:12:00,101 --> 00:12:03,594
+interpreta Jon Snow è stato un bastardo,
+ma guardiamo ancora Il Trono di Spade.
+
+239
+00:12:03,595 --> 00:12:06,039
+E' stato un bastardo perché l'hai tamponato.
+
+240
+00:12:07,074 --> 00:12:08,823
+Mi ero distratto...
+
+241
+00:12:08,824 --> 00:12:12,510
+è strano vedere un Guardiano della Notte
+con un kayak attaccato alla macchina.
+
+242
+00:12:14,733 --> 00:12:15,733
+Dai.
+
+243
+00:12:20,016 --> 00:12:21,649
+Salve, mi scusi, signore...
+
+244
+00:12:21,650 --> 00:12:23,505
+non voglio disturbarla, ma...
+
+245
+00:12:23,506 --> 00:12:25,807
+siamo dei grandi fan di Firefly.
+
+246
+00:12:25,808 --> 00:12:27,336
+E di Dr. Horrible.
+
+247
+00:12:28,591 --> 00:12:30,612
+Vi sbagliate. Non sono un attore.
+
+248
+00:12:31,254 --> 00:12:32,961
+Non dica così.
+
+249
+00:12:32,962 --> 00:12:36,070
+Insomma, non è Dame Judi Dench,
+ma anche lei non è niente male.
+
+250
+00:12:39,631 --> 00:12:41,856
+Sì, capisco, pensate
+che sia Nathan Fillion...
+
+251
+00:12:41,857 --> 00:12:44,324
+ma non lo sono. Quindi, se non vi dispiace...
+
+252
+00:12:44,325 --> 00:12:45,767
+vorrei finire il pranzo.
+
+253
+00:12:46,770 --> 00:12:48,806
+Andiamo. Scusi il disturbo.
+
+254
+00:12:49,644 --> 00:12:51,644
+Non so perché sia così scontroso.
+
+255
+00:12:52,010 --> 00:12:54,014
+Una volta mi hanno scambiato
+per il tizio di Vita di Pi,
+
+256
+00:12:54,015 --> 00:12:55,462
+e sono ancora al settimo cielo.
+
+257
+00:12:59,580 --> 00:13:00,978
+Sheldon, sono io.
+
+258
+00:13:02,103 --> 00:13:04,620
+Ehi, hai visto cos'ho fatto?
+
+259
+00:13:04,621 --> 00:13:08,225
+Sono riuscita ad aprire la porta da sola.
+
+260
+00:13:10,222 --> 00:13:14,112
+Magari lancio un po' di feci
+nella mia gabbia per festeggiare.
+
+261
+00:13:15,597 --> 00:13:19,789
+- Cosa stai dicendo?
+- So che mi sottoponevi a dei test segreti.
+
+262
+00:13:22,489 --> 00:13:24,103
+Sheldon, apri la porta.
+
+263
+00:13:24,104 --> 00:13:25,411
+Non posso.
+
+264
+00:13:25,949 --> 00:13:27,248
+Sono nudo.
+
+265
+00:13:28,756 --> 00:13:30,446
+Ti ho appena visto.
+
+266
+00:13:31,072 --> 00:13:32,115
+Aspetta.
+
+267
+00:13:33,547 --> 00:13:35,621
+Apri subito la porta.
+
+268
+00:13:35,967 --> 00:13:37,843
+- Ehilà.
+- Tirati su i pantaloni!
+
+269
+00:13:40,678 --> 00:13:42,196
+Non è una tragedia.
+
+270
+00:13:42,197 --> 00:13:45,045
+Faccio fare sempre
+dei test simili agli studenti.
+
+271
+00:13:45,046 --> 00:13:48,190
+Se riempi dei moduli all'università,
+ti do cinque dollari.
+
+272
+00:13:49,122 --> 00:13:52,425
+Non voglio cinque dollari,
+voglio la mia dignità.
+
+273
+00:13:53,539 --> 00:13:55,628
+Quindi di quanto stiamo parlando, 10 dollari?
+
+274
+00:13:58,242 --> 00:13:59,685
+- Grazie.
+- Grazie.
+
+275
+00:14:01,740 --> 00:14:03,545
+- Scusi ancora.
+- Figuratevi.
+
+276
+00:14:04,078 --> 00:14:06,081
+E' sicuro di non essere lui?
+
+277
+00:14:06,613 --> 00:14:09,824
+Ce lo può dire.
+Siamo scienziati, non dei fan fuori di testa.
+
+278
+00:14:12,236 --> 00:14:13,371
+E va bene.
+
+279
+00:14:13,948 --> 00:14:14,949
+Sono lui.
+
+280
+00:14:15,455 --> 00:14:18,307
+E mangia in un bar da solo?
+
+281
+00:14:19,014 --> 00:14:20,895
+Non ci credo, non può essere lui.
+
+282
+00:14:22,339 --> 00:14:24,115
+Volevo solo pranzare in pace.
+
+283
+00:14:24,116 --> 00:14:27,070
+Ma sono davvero lui.
+E mi fa piacere che siate dei fan.
+
+284
+00:14:27,071 --> 00:14:29,148
+Se volete, possiamo farci una foto.
+
+285
+00:14:29,680 --> 00:14:31,413
+- Sarebbe fantastico.
+- Sì, grazie.
+
+286
+00:14:31,414 --> 00:14:32,414
+Di niente.
+
+287
+00:14:36,446 --> 00:14:37,845
+Un attimo solo.
+
+288
+00:14:39,288 --> 00:14:41,433
+Se è davvero Nathan Fillion...
+
+289
+00:14:41,845 --> 00:14:44,354
+com'è la battuta sulla cuffia in <i>Firefly</i>?
+
+290
+00:14:45,732 --> 00:14:48,714
+"Giuro sulla mia bella cuffietta a fiori
+che ti faccio fuori."
+
+291
+00:14:50,365 --> 00:14:51,725
+E' quella, è giusta.
+
+292
+00:14:52,307 --> 00:14:53,542
+Però...
+
+293
+00:14:53,680 --> 00:14:56,486
+io la sapevo, ma non vuol dire
+che sono Nathan Fillion.
+
+294
+00:14:58,467 --> 00:14:59,789
+Volete la foto o no?
+
+295
+00:14:59,790 --> 00:15:01,945
+Io voglio una foto con Nathan Fillion.
+
+296
+00:15:03,722 --> 00:15:05,982
+Che ne dite di una foto con uno
+che gli somiglia
+
+297
+00:15:05,983 --> 00:15:08,658
+ma un po' più infastidito
+di quanto non lo sia normalmente?
+
+298
+00:15:12,026 --> 00:15:13,090
+Che ne dici?
+
+299
+00:15:14,354 --> 00:15:16,095
+Andrà bene lo stesso su Facebook.
+
+300
+00:15:23,912 --> 00:15:27,536
+- E' assurdo che l'abbiano fatto.
+- Infatti, è veramente un insulto.
+
+301
+00:15:27,537 --> 00:15:31,268
+A un certo punto, mi hanno fatto tirare fuori
+una banana da una scatola rompicapo.
+
+302
+00:15:32,240 --> 00:15:34,829
+Aspetta, Sheldon ha dato anche a me
+una scatola con una banana.
+
+303
+00:15:34,830 --> 00:15:36,482
+Stava esaminando anche me!
+
+304
+00:15:37,714 --> 00:15:40,719
+- Incredibile.
+- E comunque come avrebbe fatto una scimmia?
+
+305
+00:15:40,720 --> 00:15:42,249
+Era impossibile.
+
+306
+00:15:42,515 --> 00:15:44,249
+Davvero? Non sei riuscito a risolverla?
+
+307
+00:15:48,784 --> 00:15:51,714
+- Grazie.
+- Wow, il negozio è bellissimo.
+
+308
+00:15:51,715 --> 00:15:54,752
+Quindi ci stavate esaminando entrambi?
+Ma cosa avete in testa?
+
+309
+00:15:54,753 --> 00:15:57,028
+Che pensano di essere così intelligenti
+
+310
+00:15:57,029 --> 00:15:59,732
+che non gli interessa
+se feriscono i sentimenti altrui.
+
+311
+00:15:59,733 --> 00:16:01,914
+- Siamo proprio noi.
+- Non è vero.
+
+312
+00:16:04,247 --> 00:16:06,386
+Ancora non capisco perché siete arrabbiati.
+
+313
+00:16:06,387 --> 00:16:09,579
+Avete risolto tutti gli enigmi
+più in fretta di tutte le scimmie.
+
+314
+00:16:09,580 --> 00:16:12,235
+Cioè, tranne di Barnabas,
+ma era sotto l'effetto dell'Adderall.
+
+315
+00:16:14,068 --> 00:16:16,058
+Mi dispiace ma mi fa diventare matto.
+
+316
+00:16:16,059 --> 00:16:18,308
+Non puoi semplicemente lasciar perdere?
+
+317
+00:16:18,468 --> 00:16:20,614
+Oh, in questo posso aiutarti.
+
+318
+00:16:21,668 --> 00:16:24,767
+Immagina di tenere in mano una penna normale.
+
+319
+00:16:26,114 --> 00:16:29,933
+La tua penna preferita invece
+è al sicuro nella tua tasca.
+
+320
+00:16:32,233 --> 00:16:33,387
+Scusa un attimo.
+
+321
+00:16:34,170 --> 00:16:35,170
+Pronto?
+
+322
+00:16:35,399 --> 00:16:37,301
+Come posso rimediare?
+
+323
+00:16:37,548 --> 00:16:41,243
+La risposta è in questa scatola rompicapo,
+vediamo se riesci ad aprirla.
+
+324
+00:16:45,384 --> 00:16:47,737
+Avresti potuto almeno avvertirlo dei mobili.
+
+325
+00:16:47,738 --> 00:16:49,998
+Gliel'ho detto anch'io
+quando li abbiamo spostati.
+
+326
+00:16:49,999 --> 00:16:51,222
+Tu l'hai aiutato?
+
+327
+00:16:51,223 --> 00:16:54,632
+No, quei cuscini li ha scelti Stuart da solo.
+
+328
+00:16:58,689 --> 00:16:59,827
+Ehi, tutto bene?
+
+329
+00:17:01,094 --> 00:17:02,158
+No.
+
+330
+00:17:02,405 --> 00:17:03,589
+Che è successo?
+
+331
+00:17:05,245 --> 00:17:06,940
+Mia madre è morta.
+
+332
+00:17:07,616 --> 00:17:08,616
+Cosa?
+
+333
+00:17:11,897 --> 00:17:14,008
+Era mia zia.
+
+334
+00:17:15,035 --> 00:17:16,638
+Mamma è andata a dormire.
+
+335
+00:17:17,776 --> 00:17:19,304
+E non si è più svegliata.
+
+336
+00:17:20,386 --> 00:17:22,202
+Oh, mio Dio, Howie.
+
+337
+00:17:25,307 --> 00:17:26,524
+Mi dispiace molto.
+
+338
+00:17:28,094 --> 00:17:29,504
+Cosa possiamo fare?
+
+339
+00:17:32,026 --> 00:17:33,957
+Non lo so.
+
+340
+00:17:39,188 --> 00:17:41,581
+- Posso dire una cosa?
+- Non ora, Sheldon.
+
+341
+00:17:41,582 --> 00:17:43,007
+Ma può essere di conforto.
+
+342
+00:17:43,008 --> 00:17:44,712
+- Amico...
+- No, tranquilli.
+
+343
+00:17:45,700 --> 00:17:46,700
+Cosa?
+
+344
+00:17:47,725 --> 00:17:49,606
+Quando ho perso mio padre...
+
+345
+00:17:50,479 --> 00:17:52,782
+non avevo amici a cui appoggiarmi.
+
+346
+00:17:54,740 --> 00:17:56,059
+Tu ce li hai.
+
+347
+00:18:01,890 --> 00:18:04,536
+Ero convinta che volesse dire
+"Lascia perdere".
+
+348
+00:18:16,394 --> 00:18:17,941
+Okay, grazie, Bernadette.
+
+349
+00:18:18,139 --> 00:18:19,275
+Buon viaggio.
+
+350
+00:18:20,066 --> 00:18:21,245
+Va bene, ciao.
+
+351
+00:18:23,165 --> 00:18:26,060
+Hanno prenotato un volo,
+stanno andando ora all'aeroporto.
+
+352
+00:18:26,061 --> 00:18:27,471
+Come sta Howard?
+
+353
+00:18:27,855 --> 00:18:29,132
+Sta tenendo duro.
+
+354
+00:18:29,292 --> 00:18:30,581
+Tu come stai, Stuart?
+
+355
+00:18:32,518 --> 00:18:36,409
+Ancora non ci credo che se ne sia andata.
+Quella donna mi ha accolto a braccia aperte.
+
+356
+00:18:36,410 --> 00:18:39,734
+Se non fosse stato per lei,
+sarei rimasto in mezzo alla strada.
+
+357
+00:18:39,735 --> 00:18:41,531
+Ti avrebbe ospitato uno di noi.
+
+358
+00:18:41,532 --> 00:18:43,546
+Veramente non ricordo nessuna offerta.
+
+359
+00:18:45,361 --> 00:18:49,262
+Ma sapete, sono contento
+che sia andata così, perché...
+
+360
+00:18:49,991 --> 00:18:52,103
+ho conosciuto questa persona stupenda.
+
+361
+00:18:52,696 --> 00:18:53,696
+Già.
+
+362
+00:18:54,097 --> 00:18:55,968
+La signora Wolowitz era speciale.
+
+363
+00:18:56,358 --> 00:18:58,076
+Quando sono arrivato in America...
+
+364
+00:18:58,505 --> 00:19:00,304
+Howard era il mio unico amico.
+
+365
+00:19:00,645 --> 00:19:01,830
+E lei...
+
+366
+00:19:01,831 --> 00:19:04,017
+mi ha fatto sentire il benvenuto in casa sua.
+
+367
+00:19:04,434 --> 00:19:07,039
+Il che è tutto dire, perché i primi anni
+
+368
+00:19:07,040 --> 00:19:08,851
+pensava fossi il giardiniere.
+
+369
+00:19:11,456 --> 00:19:15,979
+Quando andavo a trovarla, diceva che
+ero troppo magra e mi dava da mangiare.
+
+370
+00:19:17,375 --> 00:19:18,998
+Lo faceva anche con me.
+
+371
+00:19:18,999 --> 00:19:20,714
+Non portarmi via il mio ricordo.
+
+372
+00:19:22,888 --> 00:19:24,852
+Non mi piaceva che urlasse.
+
+373
+00:19:25,713 --> 00:19:28,269
+Ma ora che non la sentirò più...
+
+374
+00:19:28,270 --> 00:19:29,461
+mi sento triste.
+
+375
+00:19:29,938 --> 00:19:31,993
+Se vuoi, dopo posso tirarti un urlo io.
+
+376
+00:19:34,430 --> 00:19:35,856
+Non sarebbe lo stesso.
+
+377
+00:19:38,933 --> 00:19:40,326
+Facciamo un brindisi.
+
+378
+00:19:42,499 --> 00:19:44,095
+Alla signora Wolowitz.
+
+379
+00:19:44,141 --> 00:19:46,226
+Una madre premurosa...
+
+380
+00:19:49,265 --> 00:19:50,538
+per tutti noi.
+
+381
+00:19:52,985 --> 00:19:54,021
+Ci mancherai.
+
+382
+00:19:57,757 --> 00:20:01,015
+www.subsfactory.it
+

@@ -1,0 +1,1459 @@
+1
+00:00:04,047 --> 00:00:05,147
+Leonard...
+
+2
+00:00:05,299 --> 00:00:07,676
+- brutte notizie.
+- Che succede?
+
+3
+00:00:08,048 --> 00:00:11,262
+Prima di dirtelo,
+forse dovrei indorare la pillola.
+
+4
+00:00:11,817 --> 00:00:14,654
+La tua faccia è piacevolmente simmetrica.
+
+5
+00:00:16,668 --> 00:00:17,895
+Dimmelo e basta.
+
+6
+00:00:18,004 --> 00:00:22,904
+Dei fisici svedesi stanno cercando di batterci
+nell'esperimento del vortice del superfluido.
+
+7
+00:00:23,650 --> 00:00:26,726
+- Beh, che bassezza.
+- "Che bassezza"?
+
+8
+00:00:27,275 --> 00:00:30,164
+Perché non sei arrabbiato?
+Ho indorato troppo la pillola?
+
+9
+00:00:30,230 --> 00:00:31,330
+Perché...
+
+10
+00:00:31,433 --> 00:00:33,895
+questo lato è più simile
+a un quadro di Picasso.
+
+11
+00:00:35,656 --> 00:00:38,249
+- Cosa facciamo?
+- Eseguiamo subito l'esperimento.
+
+12
+00:00:38,269 --> 00:00:42,817
+Mi piacerebbe, ma ci manca l'elio liquido,
+e la nostra scorta arriverà tra un mese.
+
+13
+00:00:42,966 --> 00:00:45,045
+Un mese? Che? Stai scherzando?
+
+14
+00:00:45,102 --> 00:00:47,238
+Sarebbe stato un ottimo momento
+per indorare la pillola.
+
+15
+00:00:48,660 --> 00:00:50,647
+Quella maglietta fa risaltare
+il blu dei tuoi occhi.
+
+16
+00:00:51,476 --> 00:00:53,135
+Grazie. Che tesoro!
+
+17
+00:00:54,705 --> 00:00:57,943
+Andiamo a vedere se l'università
+ha delle riserve di elio.
+
+18
+00:00:58,028 --> 00:01:00,390
+Sai che stavo quasi
+per non mettermela, oggi?
+
+19
+00:01:02,922 --> 00:01:05,381
+Ehi, Barry, siamo nei guai.
+Ci serve dell'elio liquido.
+
+20
+00:01:05,413 --> 00:01:08,248
+- Il dipartimento può darcene un po'?
+- Mi spiace, ne siamo a covto.
+
+21
+00:01:08,268 --> 00:01:11,233
+E quello che abbiamo mi sevve
+pev lo studio sull'eccitazione quantistica.
+
+22
+00:01:11,410 --> 00:01:13,241
+Ma per quello non te ne servirà molto.
+
+23
+00:01:13,451 --> 00:01:16,537
+Vevo, ma se andvà a buon fine,
+davò una festa coi palloncini.
+
+24
+00:01:17,603 --> 00:01:21,080
+Dai, Barry, un team di svedesi sta cercando
+di fare il nostro esperimento prima di noi.
+
+25
+00:01:21,100 --> 00:01:22,451
+Puoi lasciarcene un po'?
+
+26
+00:01:22,844 --> 00:01:26,932
+Siate sinceri: a vuoli invevtiti,
+lo faveste pev me?
+
+27
+00:01:27,003 --> 00:01:28,538
+- Sì.
+- Assolutamente no.
+
+28
+00:01:29,939 --> 00:01:32,718
+- Ma che fai?
+- Ha detto "siate sinceri", e così ho fatto.
+
+29
+00:01:32,797 --> 00:01:35,063
+Tua madre non te l'ha insegnato?
+E' la miglior politica.
+
+30
+00:01:36,024 --> 00:01:38,579
+- Allora, che ne dici?
+- Col cavolo, no.
+
+31
+00:01:40,892 --> 00:01:42,441
+Avrebbe potuto indorare la pillola.
+
+32
+00:01:44,209 --> 00:01:47,247
+The Big Bang Theory 9x06
+The Helium Insufficiency
+
+33
+00:01:48,792 --> 00:01:52,041
+Traduzione e synch:
+Meryjo, Parzylla, Guendalina95
+
+34
+00:01:57,189 --> 00:01:59,240
+Revisione: Mlle Kurtz
+
+35
+00:02:03,337 --> 00:02:05,831
+www.subsfactory.it
+
+36
+00:02:13,410 --> 00:02:16,587
+A che vi serve Kripke? Perché non andate
+a comprare l'elio da Party City?
+
+37
+00:02:17,343 --> 00:02:19,718
+Dovremmo andare da ogni Party City
+della California.
+
+38
+00:02:19,857 --> 00:02:21,700
+Sembri tu al Cinco de Mayo.
+
+39
+00:02:24,013 --> 00:02:28,477
+Ehi, la gente ancora parlava
+di quella festa il "siete de Mayo".
+
+40
+00:02:30,276 --> 00:02:34,926
+Leonard, se quel team svedese ci batte,
+non potrò più apprezzare nulla di quel Paese.
+
+41
+00:02:35,366 --> 00:02:39,407
+Peccato: delle polpette servite con
+gli stuzzicadenti, le loro sono le migliori.
+
+42
+00:02:40,709 --> 00:02:44,052
+Se avete così tanto bisogno di elio liquido,
+conosco un tizio...
+
+43
+00:02:44,072 --> 00:02:46,691
+che può procurarvelo,
+se non fate troppe domande.
+
+44
+00:02:46,779 --> 00:02:48,413
+- Chi è? Come se lo procura?
+- Che lavoro fa?
+
+45
+00:02:48,433 --> 00:02:50,088
+Quante domande sono troppe?
+
+46
+00:02:51,867 --> 00:02:53,059
+Forse non fa per voi.
+
+47
+00:02:53,135 --> 00:02:54,810
+Quattro domande. La risposta è quattro.
+
+48
+00:02:57,486 --> 00:03:00,170
+Ehi, sai chi aveva un appuntamento,
+ieri sera? Stuart.
+
+49
+00:03:00,558 --> 00:03:02,558
+- Buon per lui.
+- Ho pensato la stessa cosa.
+
+50
+00:03:02,670 --> 00:03:06,089
+Allora, è, che so, una senzatetto
+o vuole incastrarlo per un crimine?
+
+51
+00:03:07,513 --> 00:03:10,043
+Sta usando una specie di app di incontri
+che ha sul telefono.
+
+52
+00:03:10,245 --> 00:03:12,244
+Quale? Magari possiamo convincere
+Amy a provarla.
+
+53
+00:03:12,264 --> 00:03:13,496
+Non lo so.
+
+54
+00:03:13,557 --> 00:03:15,703
+Stuart, puoi venire un attimo qui?
+
+55
+00:03:15,894 --> 00:03:17,656
+Ha provato a spiegarmelo.
+
+56
+00:03:17,680 --> 00:03:20,187
+Ti mostra le foto delle persone
+nelle vicinanze...
+
+57
+00:03:20,259 --> 00:03:22,747
+le sfogli... sembra un po' un gioco.
+
+58
+00:03:23,577 --> 00:03:25,871
+E se perdi, devi uscire con Stuart.
+
+59
+00:03:28,923 --> 00:03:31,513
+- Che succede?
+- Puoi farci vedere quell'app di incontri?
+
+60
+00:03:31,714 --> 00:03:33,268
+Oh, sì, certo.
+
+61
+00:03:33,667 --> 00:03:35,892
+Questa roba mi ha cambiato la vita.
+
+62
+00:03:35,997 --> 00:03:38,484
+- Cavolo. Quante ragazze hai conosciuto?
+- Due.
+
+63
+00:03:40,247 --> 00:03:43,879
+Forse non c'è bisogno di dire
+che c'è un intero numero tra quello e zero.
+
+64
+00:03:44,740 --> 00:03:46,160
+Beh, allora, come funziona?
+
+65
+00:03:46,656 --> 00:03:47,656
+Beh...
+
+66
+00:03:48,023 --> 00:03:52,375
+mi fa vedere le donne single che usano
+l'applicazione in un raggio di 8 km.
+
+67
+00:03:52,436 --> 00:03:56,444
+Se mi piacciono, metto "mi piace".
+Altrimenti, metto "non mi piace".
+
+68
+00:03:56,774 --> 00:03:58,940
+E perché dovresti mettere
+"non mi piace" a una ragazza?
+
+69
+00:03:59,180 --> 00:04:01,346
+Quando succederà, ve lo dirò.
+
+70
+00:04:05,810 --> 00:04:08,214
+Ehi. Mi ha appena risposto
+il tizio dell'elio liquido.
+
+71
+00:04:08,704 --> 00:04:09,804
+Che dice?
+
+72
+00:04:09,874 --> 00:04:12,406
+Ha quello che ci serve
+e possiamo vederci stasera.
+
+73
+00:04:12,876 --> 00:04:13,976
+Davvero?
+
+74
+00:04:14,773 --> 00:04:16,964
+Sa che non mi piace fare acquisti di sera.
+
+75
+00:04:18,455 --> 00:04:20,263
+7 gennaio 2009.
+
+76
+00:04:20,283 --> 00:04:24,222
+Andai da Ralph alle 23:30 a prendere i
+Cracklin' Oat Bran per colazione e cosa vidi?
+
+77
+00:04:24,286 --> 00:04:27,280
+- Il tizio che stava rifornendo lo scaffale.
+- Esatto. E cos'ha fatto?
+
+78
+00:04:27,321 --> 00:04:30,368
+Ti ha dato direttamente il pacco
+e ti ha chiamato "spilungone".
+
+79
+00:04:33,291 --> 00:04:34,808
+E' come se fosse successo ieri.
+
+80
+00:04:36,586 --> 00:04:38,172
+Lo vuoi l'elio liquido o no?
+
+81
+00:04:38,491 --> 00:04:41,289
+Certo che sì.
+Non voglio che gli svedesi ci battano.
+
+82
+00:04:41,309 --> 00:04:42,844
+Allora gli dico che ci stiamo.
+
+83
+00:04:43,519 --> 00:04:45,777
+Leonard, aspetta. E' altamente immorale.
+
+84
+00:04:45,927 --> 00:04:48,356
+Stiamo solo facendo uno strappo alla regola.
+
+85
+00:04:48,376 --> 00:04:50,933
+Abbiamo una sovvenzione
+per condurre l'esperimento, quindi...
+
+86
+00:04:50,953 --> 00:04:52,706
+spenderemo quei soldi
+per l'elio che ci serve.
+
+87
+00:04:52,830 --> 00:04:56,678
+Non è come quando il dottor Goldfarb disse
+di aver acquistato un microscopio elettronico
+
+88
+00:04:56,698 --> 00:05:00,209
+mentre in realtà teneva una ragazza russa
+in un appartamento a Van Nuys.
+
+89
+00:05:03,279 --> 00:05:05,378
+Lo stava aiutando con la ricerca?
+
+90
+00:05:08,094 --> 00:05:09,194
+Certo.
+
+91
+00:05:10,687 --> 00:05:12,124
+Allora, lo facciamo o no?
+
+92
+00:05:12,317 --> 00:05:15,596
+- Okay, ma dove si procura l'elio?
+- Ricordi? Non fare troppe domande?
+
+93
+00:05:15,651 --> 00:05:19,227
+- Ma viola il codice universitario.
+- Un po', ma...
+
+94
+00:05:19,904 --> 00:05:21,824
+se posso citare Einstein...
+
+95
+00:05:22,033 --> 00:05:26,636
+"L'interesse della scienza ci chiede
+d'ignorare le regole stabilite dagli uomini".
+
+96
+00:05:29,306 --> 00:05:31,152
+D'accordo, vai. Digli che ci stiamo.
+
+97
+00:05:34,278 --> 00:05:35,378
+Fatto.
+
+98
+00:05:35,749 --> 00:05:38,582
+Non riesco a trovare quella citazione
+su Internet. Te la sei inventata?
+
+99
+00:05:41,888 --> 00:05:45,148
+Prima di rispondere, posso dirti che
+la tua pelle non è mai stata così bella.
+
+100
+00:05:48,728 --> 00:05:50,390
+Sei dolcissimo!
+
+101
+00:05:53,891 --> 00:05:55,570
+Non so se mi piace l'idea.
+
+102
+00:05:55,754 --> 00:05:59,300
+- Su, fagli installare l'app sul telefono.
+- Sì, Stuart ha rimediato due appuntamenti.
+
+103
+00:05:59,441 --> 00:06:02,679
+Uno dei quali si sarebbe concluso col sesso,
+se lei non avesse detto di no.
+
+104
+00:06:05,030 --> 00:06:07,016
+- Okay, ecco fatto.
+- Bene, fammi vedere.
+
+105
+00:06:07,789 --> 00:06:09,783
+No... no...
+
+106
+00:06:10,189 --> 00:06:12,618
+no... ecco, lui è carino!
+
+107
+00:06:12,884 --> 00:06:16,884
+Il tatuaggio a forma di lacrima
+non significa che ha ucciso qualcuno?
+
+108
+00:06:18,177 --> 00:06:19,982
+E per questo è triste.
+
+109
+00:06:21,327 --> 00:06:22,452
+- Ciao.
+- Ciao.
+
+110
+00:06:22,472 --> 00:06:24,701
+- Ciao.
+- Ehi, credevo che avresti fatto tardi.
+
+111
+00:06:24,721 --> 00:06:28,171
+Se volevi che stessi fuori di più,
+potevi darmi più soldi.
+
+112
+00:06:29,284 --> 00:06:30,497
+Che fate?
+
+113
+00:06:30,517 --> 00:06:32,989
+Iscriviamo Amy su un'app
+di incontri e vediamo cosa c'è.
+
+114
+00:06:33,009 --> 00:06:35,064
+Bello! Fatemi vedere.
+
+115
+00:06:36,167 --> 00:06:37,448
+No...
+
+116
+00:06:37,804 --> 00:06:40,522
+no... decisamente no.
+
+117
+00:06:41,111 --> 00:06:44,843
+- Cosa aveva quello che non andava?
+- E' indiano. Ne abbiamo già uno.
+
+118
+00:06:46,330 --> 00:06:49,898
+Dovremmo trovare un bel latino.
+Così saremmo al completo.
+
+119
+00:06:51,074 --> 00:06:53,661
+- Voglio provare io.
+- Scusate, posso riavere il mio telefono?
+
+120
+00:06:53,681 --> 00:06:56,006
+Aspetta, ti sto cercando
+l'amore della tua vita.
+
+121
+00:06:56,026 --> 00:06:57,763
+Il futuro padre dei tuoi figli.
+
+122
+00:06:57,783 --> 00:07:00,870
+Allora, sì o no sul bianco coi rasta?
+
+123
+00:07:11,219 --> 00:07:12,608
+Dev'essere lui.
+
+124
+00:07:12,916 --> 00:07:16,924
+Ma certo. Un furgone bianco e anonimo.
+
+125
+00:07:17,088 --> 00:07:18,737
+Lo stesso della frase
+
+126
+00:07:18,757 --> 00:07:22,422
+"I corpi sono stati trovati
+in un furgone bianco e anonimo".
+
+127
+00:07:29,669 --> 00:07:30,669
+Salve.
+
+128
+00:07:30,759 --> 00:07:32,733
+- E allora?
+- Io sono Leonard.
+
+129
+00:07:32,753 --> 00:07:36,003
+- Questo è il mio amico...
+- Skippy. Skippy Cavanaugh.
+
+130
+00:07:37,466 --> 00:07:39,077
+Bene. Avete i soldi?
+
+131
+00:07:39,097 --> 00:07:41,647
+- Sì, sono qui.
+- Aspetta un attimo, un attimo.
+
+132
+00:07:42,202 --> 00:07:44,966
+Come sappiamo che non sparirai con i soldi?
+
+133
+00:07:45,719 --> 00:07:47,035
+Che fai, Skippy?
+
+134
+00:07:48,516 --> 00:07:51,762
+Proprio quello che ci hanno insegnato
+i telefilm polizieschi anni '70.
+
+135
+00:07:52,320 --> 00:07:54,339
+Dacci prima l'elio.
+
+136
+00:07:54,505 --> 00:07:57,442
+E come so che non sparirete senza pagarmi?
+
+137
+00:07:58,759 --> 00:08:02,014
+Mi sa che non sono l'unico
+a guardare i polizieschi anni '70.
+
+138
+00:08:02,546 --> 00:08:05,640
+Senti, puoi fidarti di noi.
+Siamo scienziati di tutto rispetto.
+
+139
+00:08:05,660 --> 00:08:07,197
+Lui sì.
+
+140
+00:08:07,217 --> 00:08:10,799
+Io invece sono un organizzatore di matrimoni
+che non riesce a trovare l'amore.
+
+141
+00:08:13,023 --> 00:08:14,919
+E' ironico, ma il punto è che...
+
+142
+00:08:15,789 --> 00:08:20,136
+non possiamo fidarci di te. Sei un
+losco figuro in un parcheggio sotterraneo.
+
+143
+00:08:20,156 --> 00:08:23,656
+Sì, beh, dal mio punto di vista,
+lo siete anche voi per me.
+
+144
+00:08:23,997 --> 00:08:25,797
+Beh, non ci avevo pensato.
+
+145
+00:08:26,494 --> 00:08:29,112
+Certo che il contesto ti frega a volte, vero?
+
+146
+00:08:30,661 --> 00:08:35,648
+Il mio amico non ha tutti i torti riguardo
+i soldi, non mi sento sicuro a darteli così.
+
+147
+00:08:36,098 --> 00:08:37,898
+Niente soldi, niente elio.
+
+148
+00:08:38,094 --> 00:08:40,652
+A quanto pare siamo a un punto di stallo.
+
+149
+00:08:40,826 --> 00:08:42,607
+Tecnicamente no.
+
+150
+00:08:42,635 --> 00:08:46,759
+Negli scacchi, lo stallo avviene quando
+non ci sono più mosse da fare.
+
+151
+00:08:46,779 --> 00:08:48,689
+Tu hai un sacco di mosse che puoi fare.
+
+152
+00:08:48,709 --> 00:08:50,949
+Puoi picchiarci e rubarci i soldi.
+
+153
+00:08:52,124 --> 00:08:53,929
+Puoi ucciderci.
+
+154
+00:08:54,855 --> 00:08:57,808
+Vedi, sei limitato solo
+dalla tua immaginazione.
+
+155
+00:09:01,165 --> 00:09:04,574
+In tutti questi anni ho usato "stallo"
+invece di dire "punto morto".
+
+156
+00:09:05,474 --> 00:09:06,698
+Che stupido.
+
+157
+00:09:09,897 --> 00:09:12,637
+Non credo importi che sia "stallo"
+
+158
+00:09:12,657 --> 00:09:15,707
+o "punto morto" o "stallo alla messicana".
+Come la risolviamo?
+
+159
+00:09:15,727 --> 00:09:17,684
+Aspetta, perché stallo alla messicana?
+
+160
+00:09:17,704 --> 00:09:19,795
+Lo sanno tutti che ci vogliono tre parti.
+
+161
+00:09:20,147 --> 00:09:21,620
+Non necessariamente.
+
+162
+00:09:21,640 --> 00:09:24,946
+Secondo molti, nello stallo alla messicana
+
+163
+00:09:24,966 --> 00:09:28,547
+nessuno può sottrarsi al conflitto
+senza subire danni.
+
+164
+00:09:29,259 --> 00:09:30,483
+Non ti seguo.
+
+165
+00:09:31,967 --> 00:09:33,517
+Ti faccio un esempio.
+
+166
+00:09:33,807 --> 00:09:39,645
+Oggi ho decodificato gli header della tua
+mail e so che ti chiami Kenneth Fitzgerald.
+
+167
+00:09:39,665 --> 00:09:42,424
+Da lì, sono risalito a
+dove abiti e dove lavori.
+
+168
+00:09:42,444 --> 00:09:46,264
+Ora, per creare uno stallo alla messicana,
+direi qualcosa del tipo:
+
+169
+00:09:46,284 --> 00:09:49,770
+"Dacci l'elio o ti consegniamo
+alle autorità."
+
+170
+00:09:50,268 --> 00:09:53,099
+- E' una minaccia?
+- Esattamente. Visto, hai capito.
+
+171
+00:09:54,844 --> 00:09:58,406
+Beh, io so dove lavorate voi.
+E se mi create problemi, vi denuncio.
+
+172
+00:09:58,426 --> 00:10:00,544
+Poi vi scaravento col culo per terra.
+
+173
+00:10:00,564 --> 00:10:04,164
+Perfetto. Ora è uno stallo alla messicana
+a tutti gli effetti.
+
+174
+00:10:06,117 --> 00:10:09,217
+E' una di quelle volte in cui ho vinto
+la battaglia ma ho perso la guerra?
+
+175
+00:10:11,099 --> 00:10:12,567
+Temo di sì, Skippy.
+
+176
+00:10:14,009 --> 00:10:16,010
+L'avevo detto che non dovevamo
+fare acquisti di notte.
+
+177
+00:10:24,853 --> 00:10:26,751
+Va bene, calmiamoci un attimo.
+
+178
+00:10:26,771 --> 00:10:28,309
+Nessuno denuncia nessuno.
+
+179
+00:10:28,329 --> 00:10:31,123
+- No, non mi piace, io me ne vado.
+- No, no, no, aspetta.
+
+180
+00:10:31,143 --> 00:10:32,613
+Fammi spiegare.
+
+181
+00:10:32,889 --> 00:10:35,442
+Siamo fisici, e stiamo cercando
+di dimostrare un'ipotesi
+
+182
+00:10:35,462 --> 00:10:37,598
+su cui stiamo lavorando da oltre un anno.
+
+183
+00:10:37,748 --> 00:10:40,008
+Davvero? Che ipotesi?
+
+184
+00:10:41,135 --> 00:10:45,150
+Lo spazio-tempo può essere interpretato come
+superficie di un superfluido n-dimensionale.
+
+185
+00:10:45,994 --> 00:10:47,806
+Può essere. Può essere. Continua.
+
+186
+00:10:50,659 --> 00:10:53,381
+Ma ora un gruppo di svedesi
+ha letto il nostro articolo
+
+187
+00:10:53,401 --> 00:10:55,729
+e sta cercando di rubarci la scoperta.
+
+188
+00:10:56,154 --> 00:10:57,748
+L'elio ci serve veramente.
+
+189
+00:10:57,768 --> 00:11:01,320
+Non volevo dire di essere un organizzatore
+di matrimoni che non trova l'amore.
+
+190
+00:11:01,581 --> 00:11:04,010
+Anche se attualmente sono single,
+se conosci qualcuno.
+
+191
+00:11:05,872 --> 00:11:07,445
+Ecco i soldi. Lo facciamo?
+
+192
+00:11:08,676 --> 00:11:09,705
+D'accordo.
+
+193
+00:11:10,854 --> 00:11:13,581
+Peccato che quegli scienziati
+vi vogliano fregare.
+
+194
+00:11:13,688 --> 00:11:16,919
+Mi aspettavo degli standard etici
+più alti dai nostri amici svedesi.
+
+195
+00:11:19,416 --> 00:11:22,581
+In realtà succede spesso nel nostro campo.
+Non possiamo farci granché.
+
+196
+00:11:23,160 --> 00:11:26,841
+Beh, se avete i soldi e sapete dove abitano,
+possiamo fare molto, invece.
+
+197
+00:11:27,700 --> 00:11:30,480
+Sentito, Leonard? Possiamo fare molto.
+
+198
+00:11:32,194 --> 00:11:33,738
+Hai un biglietto da visita?
+
+199
+00:11:36,339 --> 00:11:40,116
+Ecco qua. Ora possono vedere tutti.
+
+200
+00:11:40,136 --> 00:11:42,928
+Allora. Che dite di Mike lo strabico?
+
+201
+00:11:45,921 --> 00:11:48,092
+Sapresti che non guarderebbe altre ragazze.
+
+202
+00:11:51,772 --> 00:11:53,990
+A meno che non si siedano sul suo naso.
+
+203
+00:11:55,918 --> 00:11:58,711
+Okay, okay, okay. Bocciato. Il prossimo.
+
+204
+00:12:00,071 --> 00:12:03,187
+Guardate questo che denti minuscoli.
+Sembra un uomo-delfino.
+
+205
+00:12:04,187 --> 00:12:06,743
+Scusa, se è bravo a letto,
+può tirargli un pesce.
+
+206
+00:12:08,898 --> 00:12:10,238
+Ti amo, Amy.
+
+207
+00:12:16,489 --> 00:12:20,122
+Sentite, inizio a sentirmi in colpa.
+Non siamo un po' troppo cattivi?
+
+208
+00:12:21,853 --> 00:12:23,319
+Hai ragione.
+
+209
+00:12:23,719 --> 00:12:26,422
+Non prenderemmo nessuno in giro
+così, se fossimo faccia a faccia.
+
+210
+00:12:27,627 --> 00:12:29,197
+Guardate, è Stuart!
+
+211
+00:12:32,698 --> 00:12:34,484
+Ti conviene uscire.
+
+212
+00:12:39,450 --> 00:12:42,032
+Da questa parte, zio Harvey.
+
+213
+00:12:47,165 --> 00:12:48,726
+La smetti con questa storia?
+
+214
+00:12:48,750 --> 00:12:50,915
+Sto cercando di non attirare l'attenzione.
+
+215
+00:12:52,311 --> 00:12:55,060
+Fargli levare il cappello alla donna
+delle pulizie non attira l'attenzione?
+
+216
+00:12:55,462 --> 00:12:57,823
+Ha detto "buenas noches",
+cos'avrei dovuto fare?
+
+217
+00:12:59,121 --> 00:13:00,771
+Iniziamo l'esperimento.
+
+218
+00:13:00,809 --> 00:13:03,594
+Leonard, dovremmo concordare una versione
+della storia, in caso ci beccassero.
+
+219
+00:13:03,649 --> 00:13:06,484
+- Non ci beccheranno.
+- Beh, non puoi esserne sicuro.
+
+220
+00:13:06,664 --> 00:13:09,021
+E se il rivenditore di elio facesse la spia?
+
+221
+00:13:09,118 --> 00:13:10,853
+E se Kripke ci chiedesse
+dove lo abbiamo preso?
+
+222
+00:13:10,887 --> 00:13:13,077
+E se l'università controllasse
+il mio albero genealogico e
+
+223
+00:13:13,097 --> 00:13:15,117
+scoprisse che non ho uno zio
+che si chiama Harvey?
+
+224
+00:13:16,351 --> 00:13:19,281
+Al rivenditore non importa, Kripke
+non ha nessuna autorità su di noi,
+
+225
+00:13:19,301 --> 00:13:22,443
+e la tua parentela con un contenitore
+di metallo spiegherebbe molto.
+
+226
+00:13:24,101 --> 00:13:25,356
+Aiutami a collegarlo.
+
+227
+00:13:27,819 --> 00:13:29,705
+- Che c'è?
+- Beh, hai visto questo adesivo?
+
+228
+00:13:29,725 --> 00:13:31,585
+- Cosa dice?
+- E' parzialmente strappato,
+
+229
+00:13:31,605 --> 00:13:35,355
+ma la parte restante dice
+"proprietà..." e la lettera D.
+
+230
+00:13:35,429 --> 00:13:37,581
+Sarà probabilmente
+"della USC" o "della UCLA".
+
+231
+00:13:38,007 --> 00:13:40,121
+Sì, ma se fosse
+"del governo degli Stati Uniti"?
+
+232
+00:13:40,300 --> 00:13:42,976
+C'è una riserva nazionale di elio
+ad Amarillo, in Texas.
+
+233
+00:13:43,007 --> 00:13:46,419
+Se fosse stato rubato da lì,
+saremmo complici di un reato federale.
+
+234
+00:13:46,763 --> 00:13:49,657
+Non saltiamo alle conclusioni,
+può essere qualsiasi cosa.
+
+235
+00:13:49,848 --> 00:13:50,880
+E' vero.
+
+236
+00:13:51,213 --> 00:13:52,513
+Può essere "dell'aviazione",
+
+237
+00:13:52,533 --> 00:13:54,927
+"del dipartimento della difesa",
+"della marina",
+
+238
+00:13:55,115 --> 00:13:56,833
+"di me e te che andiamo in prigione"...
+
+239
+00:13:57,742 --> 00:14:01,652
+Senti, possiamo fare l'esperimento
+come programmato e fare nera l'altra squadra,
+
+240
+00:14:01,678 --> 00:14:05,904
+o possiamo dire addio ai nostri sogni perché
+abbiamo paura di infrangere qualche regola.
+
+241
+00:14:10,460 --> 00:14:11,460
+Signora.
+
+242
+00:14:14,775 --> 00:14:18,358
+Okay, ricordate tutti le regole?
+Se è a petto nudo, un sorso.
+
+243
+00:14:18,895 --> 00:14:20,728
+Posa con un animale, due sorsi.
+
+244
+00:14:21,195 --> 00:14:23,736
+Animale e petto nudo,
+bevete come se lo faceste di mestiere.
+
+245
+00:14:25,435 --> 00:14:27,028
+E... via!
+
+246
+00:14:31,250 --> 00:14:33,312
+Ho le stesse mutande!
+
+247
+00:14:35,311 --> 00:14:36,311
+Beviamo!
+
+248
+00:14:38,856 --> 00:14:41,444
+- Amy, hai ricevuto un messaggio.
+- Oh, dammelo.
+
+249
+00:14:41,478 --> 00:14:45,036
+- " Mi sono divertito tantissimo ieri sera."
+- No, no, non leggete.
+
+250
+00:14:45,088 --> 00:14:46,320
+- Chi è Dave?
+- Io...
+
+251
+00:14:46,366 --> 00:14:48,324
+Sei andata a un appuntamento ieri sera?
+Ti vedi qualcuno?
+
+252
+00:14:48,367 --> 00:14:49,934
+No, non è come pensate.
+
+253
+00:14:51,192 --> 00:14:53,420
+"E mi piacerebbe uscire di nuovo con te"?
+
+254
+00:14:53,567 --> 00:14:55,737
+- Amy! Non posso crederci. Oh, Dio.
+- Che c'è?
+
+255
+00:14:56,047 --> 00:14:57,653
+Okay, è come pensate.
+
+256
+00:15:00,942 --> 00:15:03,811
+- Grazie per essere tornato.
+- Sì, beh, normalmente non lo farei,
+
+257
+00:15:04,111 --> 00:15:06,622
+ma mia figlia ha dato un pigiama party,
+e c'è una quantità limitata
+
+258
+00:15:06,642 --> 00:15:08,761
+di urletti e Katy Perry che si può tollerare.
+
+259
+00:15:11,146 --> 00:15:15,320
+Comunque, se ci restituisci i nostri soldi,
+ti ridiamo l'elio e andiamo via.
+
+260
+00:15:15,340 --> 00:15:17,206
+Sì, beh, ha qualcosa che non va?
+
+261
+00:15:17,234 --> 00:15:19,480
+No, niente.
+Abbiamo solo... cambiato idea.
+
+262
+00:15:19,790 --> 00:15:22,788
+Lui ha gli occhiali e io sono
+un so-tutto-io, non siamo tipi da prigione.
+
+263
+00:15:24,471 --> 00:15:25,499
+Sì, vi capisco.
+
+264
+00:15:25,519 --> 00:15:27,319
+Beh, siete dei bravi ragazzi, quindi...
+
+265
+00:15:27,577 --> 00:15:29,023
+mi riprenderò l'elio.
+
+266
+00:15:29,043 --> 00:15:30,043
+Grazie.
+
+267
+00:15:30,933 --> 00:15:32,438
+Ma non vi restituirò i soldi.
+
+268
+00:15:33,442 --> 00:15:35,463
+Ti stai approfittando di noi?
+
+269
+00:15:35,795 --> 00:15:37,933
+Abbiamo parlato di terminologia assieme!
+
+270
+00:15:39,743 --> 00:15:43,143
+Senti, mi piacciono le digressioni semantiche
+come a tutti quanti, ma...
+
+271
+00:15:43,207 --> 00:15:44,238
+sono affari.
+
+272
+00:15:46,761 --> 00:15:47,905
+Sai una cosa? Va bene.
+
+273
+00:15:47,925 --> 00:15:50,175
+Tieni i soldi. Vogliamo solo farla finita
+con questa storia.
+
+274
+00:15:50,251 --> 00:15:53,881
+Nessun problema, ma devo addebitavi
+una piccola tassa per riportarlo in magazzino.
+
+275
+00:15:55,808 --> 00:15:57,919
+- Beh, non capisco.
+- Vuole altri soldi.
+
+276
+00:15:59,192 --> 00:16:02,676
+Beh, sarà meglio che non siano più di mille
+dollari, è tutto ciò che ho con me.
+
+277
+00:16:05,013 --> 00:16:06,567
+E' esattamente questo il prezzo.
+
+278
+00:16:08,422 --> 00:16:10,296
+Finalmente ce ne va bene una.
+
+279
+00:16:15,089 --> 00:16:17,537
+Non posso credere che stai uscendo
+con una persona senza avercelo detto.
+
+280
+00:16:17,654 --> 00:16:19,324
+Infatti, perché non ce l'hai detto?
+
+281
+00:16:19,431 --> 00:16:23,022
+Perché è tutto nuovo, strano e
+sto ancora cercando di capire la situazione.
+
+282
+00:16:23,469 --> 00:16:26,427
+E sapevo che se vi avessi detto
+che sto uscendo con delle persone
+
+283
+00:16:26,447 --> 00:16:28,438
+- vi sareste eccitati troppo.
+- "Delle persone"?
+
+284
+00:16:28,458 --> 00:16:30,038
+- Cosa?
+- Amy!
+
+285
+00:16:31,461 --> 00:16:34,563
+Allora, ci è permesso chiedere
+come sta andando?
+
+286
+00:16:34,593 --> 00:16:35,905
+Sta andando bene.
+
+287
+00:16:35,995 --> 00:16:39,358
+- Più che altro sono uscita per dei caffè.
+- Cooosa?
+
+288
+00:16:41,283 --> 00:16:43,359
+Pensavo che fossimo tutti...
+Non importa.
+
+289
+00:16:45,733 --> 00:16:48,192
+Pensavo che non fossi pronta a uscire.
+
+290
+00:16:48,245 --> 00:16:50,288
+Beh, non ho molta esperienza
+con gli appuntamenti,
+
+291
+00:16:50,308 --> 00:16:52,458
+quindi ho deciso che mi avrebbe fatto bene
+
+292
+00:16:52,478 --> 00:16:53,652
+uscire un po'.
+
+293
+00:16:54,125 --> 00:16:55,495
+Beh, buon per te.
+
+294
+00:16:55,811 --> 00:16:56,811
+Grazie.
+
+295
+00:16:57,535 --> 00:16:59,334
+E con quanti uomini sei uscita?
+
+296
+00:16:59,381 --> 00:17:00,547
+Ti prego, non più di due.
+
+297
+00:17:00,571 --> 00:17:01,861
+- Tre.
+- Dannazione.
+
+298
+00:17:05,460 --> 00:17:08,316
+Beh, gli svedesi potranno anche batterci,
+
+299
+00:17:08,336 --> 00:17:11,301
+ma almeno non finiremo in carcere
+come in "Ernest Goes to Jail".
+
+300
+00:17:13,882 --> 00:17:16,853
+"Ernest Goes to Jail" è l'unico film
+che hai visto sull'argomento?
+
+301
+00:17:18,232 --> 00:17:19,955
+Mi ha spaventato molto, Leonard.
+
+302
+00:17:22,417 --> 00:17:24,656
+Ehi, stavo pensando...
+
+303
+00:17:24,760 --> 00:17:26,339
+che sono stato meschino.
+
+304
+00:17:26,500 --> 00:17:28,149
+Potete pvendevvi il mio elio.
+
+305
+00:17:29,011 --> 00:17:30,385
+Grazie, Barry.
+
+306
+00:17:30,508 --> 00:17:33,476
+Ma dovvete aggiungeve
+il mio nome alla vicevca.
+
+307
+00:17:34,339 --> 00:17:35,705
+E' assurdo.
+
+308
+00:17:35,996 --> 00:17:38,413
+Non lo so, mi sembva giusto.
+Non potete favlo senza di me.
+
+309
+00:17:39,810 --> 00:17:41,843
+- Puoi darci un minuto?
+- Pvendetevi il tempo che vi sevve.
+
+310
+00:17:41,863 --> 00:17:44,572
+Camminevò all'indietvo
+pev dave l'effetto dvammatico.
+
+311
+00:17:52,170 --> 00:17:54,132
+Non mi piace essere minacciato così.
+
+312
+00:17:54,163 --> 00:17:55,841
+Specialmente da lui.
+
+313
+00:17:55,861 --> 00:17:58,467
+Neanche a me, ma che altra scelta abbiamo?
+
+314
+00:17:59,409 --> 00:18:01,538
+Giuro che è l'ultima volta.
+
+315
+00:18:12,734 --> 00:18:14,204
+Wikipedia dice così.
+
+316
+00:18:14,248 --> 00:18:17,869
+"Lo stallo alla messicana è un confronto
+tra almeno tre parti, ambedue armate."
+
+317
+00:18:18,581 --> 00:18:22,990
+Come puoi fidarti di Wikipedia,
+se dicono "ambedue" per riferirsi a tre parti?
+
+318
+00:18:24,910 --> 00:18:26,555
+Dovrebbero dire "tutte", vero?
+
+319
+00:18:29,490 --> 00:18:32,837
+O "tutte e tre", per amor di completezza.
+
+320
+00:18:34,034 --> 00:18:37,105
+Okay, basta con le chiacchiere.
+Guardiamo "Ernest Goes to Jail" o no?
+
+321
+00:18:38,405 --> 00:18:42,718
+Assolutamente, ma non essere sorpreso
+se il film ti riporta sulla retta via.
+
+322
+00:18:44,021 --> 00:18:45,359
+Sono aperto al cambiamento.
+
+323
+00:18:46,333 --> 00:18:48,550
+www.subsfactory.it
+
